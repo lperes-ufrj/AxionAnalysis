@@ -1,0 +1,2122 @@
+Event run: 1 subRun: 0 event: 1: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -302.297, -388.681, 919.572; 0 ) cm with momentum ( 0.159324, -0.120752, -0.00590128; 0.2 ) GeV/c
+  stops by conv at ( -289.245, -398.573, 919.089; 0.546519 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 16.3842 cm long in 2 points:
+      ( -302.297, -388.681, 919.572; 0 ) -- ( -289.245, -398.573, 919.089; 0.546519 )
+
+
+Event run: 1 subRun: 0 event: 2: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 16.5636, 327.502, 371.848; 0 ) cm with momentum ( 0.121926, -0.154089, -0.0372934; 0.2 ) GeV/c
+  stops by conv at ( 58.3579, 274.682, 359.064; 2.28682 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 68.557 cm long in 2 points:
+      ( 16.5636, 327.502, 371.848; 0 ) -- ( 58.3579, 274.682, 359.064; 2.28682 )
+
+
+Event run: 1 subRun: 0 event: 3: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -253.429, -547.255, 1173.52; 0 ) cm with momentum ( 0.177239, -0.0165757, 0.0911682; 0.2 ) GeV/c
+  stops by conv at ( -242.804, -548.248, 1178.98; 0.399952 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 11.9903 cm long in 2 points:
+      ( -253.429, -547.255, 1173.52; 0 ) -- ( -242.804, -548.248, 1178.98; 0.399952 )
+
+
+Event run: 1 subRun: 0 event: 4: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 290.179, 322.37, 316.577; 0 ) cm with momentum ( 0.180853, -0.0818424, 0.0243761; 0.2 ) GeV/c
+  stops by conv at ( 294.422, 320.45, 317.149; 0.156521 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 4.6924 cm long in 2 points:
+      ( 290.179, 322.37, 316.577; 0 ) -- ( 294.422, 320.45, 317.149; 0.156521 )
+
+
+Event run: 1 subRun: 0 event: 5: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 199.153, 267.3, 678.966; 0 ) cm with momentum ( -0.0480553, -0.189459, -0.0423771; 0.2 ) GeV/c
+  stops by conv at ( 197.261, 259.84, 677.297; 0.262706 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 7.87572 cm long in 2 points:
+      ( 199.153, 267.3, 678.966; 0 ) -- ( 197.261, 259.84, 677.297; 0.262706 )
+
+
+Event run: 1 subRun: 0 event: 6: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -325.625, -265.094, 698.378; 0 ) cm with momentum ( 0.101616, 0.0494578, 0.165009; 0.2 ) GeV/c
+  stops by conv at ( -310.954, -257.954, 722.201; 0.963173 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 28.8752 cm long in 2 points:
+      ( -325.625, -265.094, 698.378; 0 ) -- ( -310.954, -257.954, 722.201; 0.963173 )
+
+
+Event run: 1 subRun: 0 event: 7: data product 'largeant' contains 10 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -66.5613, 595.309, 1282.63; 0 ) cm with momentum ( -0.128908, -0.00732017, 0.152739; 0.2 ) GeV/c
+  ends by conv at ( -96.1114, 593.631, 1317.64; 1.52928 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c into 9 particles from ID=99 to ID=107
+  comes with a trajectory 45.8468 cm long in 2 points:
+      ( -66.5613, 595.309, 1282.63; 0 ) -- ( -96.1114, 593.631, 1317.64; 1.52928 )
+
+[#1] (from 'generator::SinglesGen') ID=99: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -114.016, 587.024, 1334.38; 2.86908 ) cm with momentum ( 0.0291181, -0.0273028, 0.107949; 37.2157 ) GeV/c
+  stops by ionIoni at ( -114.016, 587.024, 1334.38; 2.86951 ) cm with momentum ( 0, -0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 3.90822e-05 cm long in 2 points:
+      ( -114.016, 587.024, 1334.38; 2.86908 ) -- ( -114.016, 587.024, 1334.38; 2.86951 )
+
+[#2] (from 'generator::SinglesGen') ID=100: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -114.803, 587.084, 1324.89; 7.97346 ) cm with momentum ( 0.0347, -0.0410196, -0.0562255; 37.2156 ) GeV/c
+  stops by ionIoni at ( -114.803, 587.084, 1324.89; 7.97366 ) cm with momentum ( 0, -0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.20219e-05 cm long in 2 points:
+      ( -114.803, 587.084, 1324.89; 7.97346 ) -- ( -114.803, 587.084, 1324.89; 7.97366 )
+
+[#3] (from 'generator::SinglesGen') ID=101: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -135.843, 609.107, 1323.73; 24.6807 ) cm with momentum ( -0.081484, 0.0208509, -0.032101; 37.2156 ) GeV/c
+  stops by ionIoni at ( -135.843, 609.107, 1323.73; 24.6809 ) cm with momentum ( -0, 0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.90717e-05 cm long in 2 points:
+      ( -135.843, 609.107, 1323.73; 24.6807 ) -- ( -135.843, 609.107, 1323.73; 24.6809 )
+
+[#4] (from 'generator::SinglesGen') ID=102: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -131.131, 621.906, 1331.84; 33.7954 ) cm with momentum ( 0.00898065, 0.0914668, 0.0519663; 37.2157 ) GeV/c
+  stops by ionIoni at ( -131.131, 621.907, 1331.84; 33.7958 ) cm with momentum ( 0, 0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 3.06707e-05 cm long in 2 points:
+      ( -131.131, 621.906, 1331.84; 33.7954 ) -- ( -131.131, 621.907, 1331.84; 33.7958 )
+
+[#5] (from 'generator::SinglesGen') ID=103: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -130.89, 620.065, 1330.88; 35.044 ) cm with momentum ( -0.0263559, -0.0331709, -0.0615061; 37.2156 ) GeV/c
+  stops by ionIoni at ( -130.89, 620.065, 1330.88; 35.0441 ) cm with momentum ( -0, -0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.05485e-05 cm long in 2 points:
+      ( -130.89, 620.065, 1330.88; 35.044 ) -- ( -130.89, 620.065, 1330.88; 35.0441 )
+
+[#6] (from 'generator::SinglesGen') ID=104: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -116.215, 614.127, 1347.81; 49.2577 ) cm with momentum ( 0.0499498, -0.0586669, 0.0436069; 37.2156 ) GeV/c
+  stops by ionIoni at ( -116.215, 614.127, 1347.81; 49.258 ) cm with momentum ( 0, -0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 1.81103e-05 cm long in 2 points:
+      ( -116.215, 614.127, 1347.81; 49.2577 ) -- ( -116.215, 614.127, 1347.81; 49.258 )
+
+[#7] (from 'generator::SinglesGen') ID=105: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -118.275, 619.476, 1347.08; 52.943 ) cm with momentum ( -0.0163142, 0.0811079, -0.0370166; 37.2156 ) GeV/c
+  stops by ionIoni at ( -118.275, 619.476, 1347.08; 52.9433 ) cm with momentum ( -0, 0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.94717e-05 cm long in 2 points:
+      ( -118.275, 619.476, 1347.08; 52.943 ) -- ( -118.275, 619.476, 1347.08; 52.9433 )
+
+[#8] (from 'generator::SinglesGen') ID=106: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -118.759, 605.477, 1359.2; 65.2987 ) cm with momentum ( 0.0104452, -0.0302375, 0.0742021; 37.2156 ) GeV/c
+  stops by ionIoni at ( -118.759, 605.477, 1359.2; 65.2989 ) cm with momentum ( 0, -0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 1.35848e-05 cm long in 2 points:
+      ( -118.759, 605.477, 1359.2; 65.2987 ) -- ( -118.759, 605.477, 1359.2; 65.2989 )
+
+[#9] (from 'generator::SinglesGen') ID=107: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -118.88, 605.422, 1358.75; 65.6244 ) cm with momentum ( -0.0495086, -0.00870841, -0.0643235; 37.2156 ) GeV/c
+  stops by ionIoni at ( -118.88, 605.422, 1358.75; 65.6246 ) cm with momentum ( -0, -0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.40324e-05 cm long in 2 points:
+      ( -118.88, 605.422, 1358.75; 65.6244 ) -- ( -118.88, 605.422, 1358.75; 65.6246 )
+
+
+Event run: 1 subRun: 0 event: 8: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -52.2694, 428.39, 868.505; 0 ) cm with momentum ( 0.00966581, -0.193542, -0.0494795; 0.2 ) GeV/c
+  stops by conv at ( -52.0172, 423.339, 867.214; 0.174109 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 5.21967 cm long in 2 points:
+      ( -52.2694, 428.39, 868.505; 0 ) -- ( -52.0172, 423.339, 867.214; 0.174109 )
+
+
+Event run: 1 subRun: 0 event: 9: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 156.956, -314.185, 158.197; 0 ) cm with momentum ( 0.0857374, 0.0534317, 0.17261; 0.2 ) GeV/c
+  stops by conv at ( 164.621, -309.408, 173.628; 0.596413 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 17.88 cm long in 2 points:
+      ( 156.956, -314.185, 158.197; 0 ) -- ( 164.621, -309.408, 173.628; 0.596413 )
+
+
+Event run: 1 subRun: 0 event: 10: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -311.014, -594.863, 815.02; 0 ) cm with momentum ( -0.087162, 0.0269417, 0.17798; 0.2 ) GeV/c
+  stops by conv at ( -316.874, -593.052, 826.985; 0.448504 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 13.4458 cm long in 2 points:
+      ( -311.014, -594.863, 815.02; 0 ) -- ( -316.874, -593.052, 826.985; 0.448504 )
+
+
+Event run: 1 subRun: 0 event: 11: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 107.954, -105.982, 316.787; 0 ) cm with momentum ( -0.123822, -0.00375619, 0.157016; 0.2 ) GeV/c
+  stops by conv at ( 103.378, -106.121, 322.591; 0.246575 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 7.39214 cm long in 2 points:
+      ( 107.954, -105.982, 316.787; 0 ) -- ( 103.378, -106.121, 322.591; 0.246575 )
+
+
+Event run: 1 subRun: 0 event: 12: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 167.332, 495.27, 1337.68; 0 ) cm with momentum ( -0.116685, -0.162387, -0.00387644; 0.2 ) GeV/c
+  stops by conv at ( 154.477, 473.642, 1341.54; 0.851438 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 25.5255 cm long in 3 points:
+      ( 167.332, 495.27, 1337.68; 0 ) -- ( 165.341, 492.499, 1337.62; 0.113821 )
+      ( 154.477, 473.642, 1341.54; 0.851438 )
+
+
+Event run: 1 subRun: 0 event: 13: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -20.8515, 249.514, 1028.12; 0 ) cm with momentum ( -0.104921, 0.0134793, 0.169735; 0.2 ) GeV/c
+  stops by conv at ( -25.1402, 250.065, 1035.06; 0.272688 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 8.17499 cm long in 2 points:
+      ( -20.8515, 249.514, 1028.12; 0 ) -- ( -25.1402, 250.065, 1035.06; 0.272688 )
+
+
+Event run: 1 subRun: 0 event: 14: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 322.554, -61.3214, 296.384; 0 ) cm with momentum ( -0.161608, -0.0661928, 0.097475; 0.2 ) GeV/c
+  stops by conv at ( 291.648, -73.9802, 315.026; 1.27583 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 38.2483 cm long in 2 points:
+      ( 322.554, -61.3214, 296.384; 0 ) -- ( 291.648, -73.9802, 315.026; 1.27583 )
+
+
+Event run: 1 subRun: 0 event: 15: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -304.627, -432.208, 1022.69; 0 ) cm with momentum ( -0.0821943, -0.180684, -0.0244394; 0.2 ) GeV/c
+  stops by conv at ( -311.645, -447.634, 1020.61; 0.569598 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 17.0761 cm long in 2 points:
+      ( -304.627, -432.208, 1022.69; 0 ) -- ( -311.645, -447.634, 1020.61; 0.569598 )
+
+
+Event run: 1 subRun: 0 event: 16: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -306.102, -42.7386, 844.302; 0 ) cm with momentum ( -0.00949089, -0.193014, -0.0515309; 0.2 ) GeV/c
+  stops by conv at ( -308.42, -89.8735, 831.718; 1.62916 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 48.8409 cm long in 2 points:
+      ( -306.102, -42.7386, 844.302; 0 ) -- ( -308.42, -89.8735, 831.718; 1.62916 )
+
+
+Event run: 1 subRun: 0 event: 17: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -47.2518, -302.692, 576.261; 0 ) cm with momentum ( 0.186395, -0.0508296, 0.0517025; 0.2 ) GeV/c
+  stops by conv at ( -40.9313, -304.416, 578.014; 0.226217 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 6.78182 cm long in 2 points:
+      ( -47.2518, -302.692, 576.261; 0 ) -- ( -40.9313, -304.416, 578.014; 0.226217 )
+
+
+Event run: 1 subRun: 0 event: 18: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 41.7984, 233.727, 1226.5; 0 ) cm with momentum ( 0.183319, -0.0424147, 0.0677878; 0.2 ) GeV/c
+  stops by conv at ( 70.8916, 226.995, 1237.26; 1.05875 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 31.7405 cm long in 2 points:
+      ( 41.7984, 233.727, 1226.5; 0 ) -- ( 70.8916, 226.995, 1237.26; 1.05875 )
+
+
+Event run: 1 subRun: 0 event: 19: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 193.739, 89.6849, 765.288; 0 ) cm with momentum ( -0.0364284, -0.19125, -0.0457872; 0.2 ) GeV/c
+  stops by conv at ( 189.821, 69.1123, 760.363; 0.717626 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 21.5139 cm long in 2 points:
+      ( 193.739, 89.6849, 765.288; 0 ) -- ( 189.821, 69.1123, 760.363; 0.717626 )
+
+
+Event run: 1 subRun: 0 event: 20: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 131.028, -306.825, 1029.14; 0 ) cm with momentum ( 0.180787, -0.0292129, 0.0803911; 0.2 ) GeV/c
+  stops by conv at ( 131.425, -306.889, 1029.32; 0.0146322 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 0.438663 cm long in 2 points:
+      ( 131.028, -306.825, 1029.14; 0 ) -- ( 131.425, -306.889, 1029.32; 0.0146322 )
+
+
+Event run: 1 subRun: 0 event: 21: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -309.28, 394.953, 1378.12; 0 ) cm with momentum ( 0.06137, -0.183258, -0.0514809; 0.2 ) GeV/c
+  stops by conv at ( -285.512, 323.981, 1358.19; 2.58367 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 77.4564 cm long in 2 points:
+      ( -309.28, 394.953, 1378.12; 0 ) -- ( -285.512, 323.981, 1358.19; 2.58367 )
+
+
+Event run: 1 subRun: 0 event: 22: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 98.3427, 245.434, 1341.13; 0 ) cm with momentum ( -0.0320377, 0.0449894, 0.192223; 0.2 ) GeV/c
+  stops by conv at ( 96.159, 248.5, 1354.23; 0.454721 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 13.6322 cm long in 2 points:
+      ( 98.3427, 245.434, 1341.13; 0 ) -- ( 96.159, 248.5, 1354.23; 0.454721 )
+
+
+Event run: 1 subRun: 0 event: 23: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -47.6293, 270.484, 189.416; 0 ) cm with momentum ( -0.0898403, 0.0282034, 0.176446; 0.2 ) GeV/c
+  stops by conv at ( -49.9024, 271.197, 193.88; 0.168791 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 5.06023 cm long in 2 points:
+      ( -47.6293, 270.484, 189.416; 0 ) -- ( -49.9024, 271.197, 193.88; 0.168791 )
+
+
+Event run: 1 subRun: 0 event: 24: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 239.978, 52.3596, 852.717; 0 ) cm with momentum ( 0.18696, -0.0436616, 0.0560327; 0.2 ) GeV/c
+  stops by conv at ( 295.02, 39.5054, 869.214; 1.96408 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 58.8815 cm long in 2 points:
+      ( 239.978, 52.3596, 852.717; 0 ) -- ( 295.02, 39.5054, 869.214; 1.96408 )
+
+
+Event run: 1 subRun: 0 event: 25: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -280.002, 52.4056, 665.202; 0 ) cm with momentum ( -0.134435, -0.147712, 0.010411; 0.2 ) GeV/c
+  stops by conv at ( -280.818, 51.5093, 665.265; 0.04048 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 1.21356 cm long in 2 points:
+      ( -280.002, 52.4056, 665.202; 0 ) -- ( -280.818, 51.5093, 665.265; 0.04048 )
+
+
+Event run: 1 subRun: 0 event: 26: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -299.035, -478.3, 1384.96; 0 ) cm with momentum ( 0.0632751, -0.181992, -0.0536202; 0.2 ) GeV/c
+  stops by conv at ( -292.387, -497.422, 1379.33; 0.700972 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 21.0146 cm long in 2 points:
+      ( -299.035, -478.3, 1384.96; 0 ) -- ( -292.387, -497.422, 1379.33; 0.700972 )
+
+
+Event run: 1 subRun: 0 event: 27: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -97.421, -500.624, 439.972; 0 ) cm with momentum ( 0.0294452, 0.0587349, 0.1889; 0.2 ) GeV/c
+  stops by conv at ( -94.6971, -495.191, 457.446; 0.617133 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 18.5012 cm long in 2 points:
+      ( -97.421, -500.624, 439.972; 0 ) -- ( -94.6971, -495.191, 457.446; 0.617133 )
+
+
+Event run: 1 subRun: 0 event: 28: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -56.8907, -200.602, 653.03; 0 ) cm with momentum ( -0.156326, -0.0474505, 0.115372; 0.2 ) GeV/c
+  stops by conv at ( -60.9384, -201.831, 656.018; 0.172738 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 5.17857 cm long in 2 points:
+      ( -56.8907, -200.602, 653.03; 0 ) -- ( -60.9384, -201.831, 656.018; 0.172738 )
+
+
+Event run: 1 subRun: 0 event: 29: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -115.14, -524.86, 1258.91; 0 ) cm with momentum ( 0.0828493, -0.175223, -0.049326; 0.2 ) GeV/c
+  stops by conv at ( -106.871, -542.349, 1253.99; 0.665852 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 19.9618 cm long in 2 points:
+      ( -115.14, -524.86, 1258.91; 0 ) -- ( -106.871, -542.349, 1253.99; 0.665852 )
+
+
+Event run: 1 subRun: 0 event: 30: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 287.517, 441.517, 608.255; 0 ) cm with momentum ( 0.0767585, 0.049745, 0.177858; 0.2 ) GeV/c
+  stops by conv at ( 299.843, 449.505, 636.816; 1.0713 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 32.1167 cm long in 2 points:
+      ( 287.517, 441.517, 608.255; 0 ) -- ( 299.843, 449.505, 636.816; 1.0713 )
+
+
+Event run: 1 subRun: 0 event: 31: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -319.494, -64.7869, 1373.71; 0 ) cm with momentum ( 0.160776, -0.118768, -0.00672794; 0.2 ) GeV/c
+  stops by conv at ( -300.721, -78.6553, 1372.92; 0.778994 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 23.3536 cm long in 2 points:
+      ( -319.494, -64.7869, 1373.71; 0 ) -- ( -300.721, -78.6553, 1372.92; 0.778994 )
+
+
+Event run: 1 subRun: 0 event: 32: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -213.267, 547.034, 81.8423; 0 ) cm with momentum ( 0.105572, -0.163754, -0.0451581; 0.2 ) GeV/c
+  stops by conv at ( -177.119, 490.964, 66.38; 2.28428 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 68.481 cm long in 2 points:
+      ( -213.267, 547.034, 81.8423; 0 ) -- ( -177.119, 490.964, 66.38; 2.28428 )
+
+
+Event run: 1 subRun: 0 event: 33: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 312.62, -516.939, 777.773; 0 ) cm with momentum ( -0.163838, -0.0691914, 0.0914858; 0.2 ) GeV/c
+  stops by conv at ( 300.669, -521.986, 784.446; 0.486625 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 14.5886 cm long in 2 points:
+      ( 312.62, -516.939, 777.773; 0 ) -- ( 300.669, -521.986, 784.446; 0.486625 )
+
+
+Event run: 1 subRun: 0 event: 34: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 254.724, 276.43, 395.97; 0 ) cm with momentum ( 0.021226, -0.191956, -0.0519856; 0.2 ) GeV/c
+  stops by conv at ( 255.203, 272.101, 394.798; 0.150446 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 4.51027 cm long in 2 points:
+      ( 254.724, 276.43, 395.97; 0 ) -- ( 255.203, 272.101, 394.798; 0.150446 )
+
+
+Event run: 1 subRun: 0 event: 35: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -4.76845, -581.011, 521.05; 0 ) cm with momentum ( -0.164837, -0.081881, 0.078258; 0.2 ) GeV/c
+  stops by conv at ( -12.3195, -584.762, 524.635; 0.305606 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 9.16185 cm long in 2 points:
+      ( -4.76845, -581.011, 521.05; 0 ) -- ( -12.3195, -584.762, 524.635; 0.305606 )
+
+
+Event run: 1 subRun: 0 event: 36: data product 'largeant' contains 9 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 122.955, 508.341, 469.228; 0 ) cm with momentum ( -0.0961225, 0.0214775, 0.174067; 0.2 ) GeV/c
+  ends by conv at ( 116.775, 509.722, 480.42; 0.428927 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c into 8 particles from ID=228 to ID=235
+  comes with a trajectory 12.8589 cm long in 2 points:
+      ( 122.955, 508.341, 469.228; 0 ) -- ( 116.775, 509.722, 480.42; 0.428927 )
+
+[#1] (from 'generator::SinglesGen') ID=228: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( 113.759, 511.222, 485.963; 0.778811 ) cm with momentum ( -0.0238041, 0.0262788, 0.0745965; 37.2156 ) GeV/c
+  stops by ionIoni at ( 113.759, 511.222, 485.963; 0.77903 ) cm with momentum ( -0, 0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 1.45587e-05 cm long in 2 points:
+      ( 113.759, 511.222, 485.963; 0.778811 ) -- ( 113.759, 511.222, 485.963; 0.77903 )
+
+[#2] (from 'generator::SinglesGen') ID=229: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( 146.123, 518.125, 454.587; 28.4371 ) cm with momentum ( 0.0277384, 0.0544525, -0.0517923; 37.2156 ) GeV/c
+  stops by ionIoni at ( 146.123, 518.125, 454.587; 28.4373 ) cm with momentum ( 0, 0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.32152e-05 cm long in 2 points:
+      ( 146.123, 518.125, 454.587; 28.4371 ) -- ( 146.123, 518.125, 454.587; 28.4373 )
+
+[#3] (from 'generator::SinglesGen') ID=230: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( 147.547, 510.738, 457.152; 33.4104 ) cm with momentum ( 0.0406175, -0.071532, 0.0422409; 37.2157 ) GeV/c
+  stops by ionIoni at ( 147.547, 510.738, 457.152; 33.4107 ) cm with momentum ( 0, -0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 2.07048e-05 cm long in 2 points:
+      ( 147.547, 510.738, 457.152; 33.4104 ) -- ( 147.547, 510.738, 457.152; 33.4107 )
+
+[#4] (from 'generator::SinglesGen') ID=231: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( 143.136, 573.761, 472.77; 82.0529 ) cm with momentum ( -0.00672404, 0.0820716, 0.0146959; 37.2156 ) GeV/c
+  stops by ionIoni at ( 143.136, 573.761, 472.77; 82.0531 ) cm with momentum ( -0, 0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 1.5156e-05 cm long in 2 points:
+      ( 143.136, 573.761, 472.77; 82.0529 ) -- ( 143.136, 573.761, 472.77; 82.0531 )
+
+[#5] (from 'generator::SinglesGen') ID=232: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( 146.153, 568.544, 471.634; 86.3328 ) cm with momentum ( 0.00553398, -0.0780858, -0.00655743; 37.2156 ) GeV/c
+  stops by ionIoni at ( 146.153, 568.544, 471.634; 86.333 ) cm with momentum ( 0, -0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.24163e-05 cm long in 2 points:
+      ( 146.153, 568.544, 471.634; 86.3328 ) -- ( 146.153, 568.544, 471.634; 86.333 )
+
+[#6] (from 'generator::SinglesGen') ID=233: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( 161.138, 604.548, 470.033; 114.686 ) cm with momentum ( 0.00708875, 0.0755558, -0.0203061; 37.2156 ) GeV/c
+  stops by ionIoni at ( 161.138, 604.548, 470.033; 114.686 ) cm with momentum ( 0, 0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.24172e-05 cm long in 2 points:
+      ( 161.138, 604.548, 470.033; 114.686 ) -- ( 161.138, 604.548, 470.033; 114.686 )
+
+[#7] (from 'generator::SinglesGen') ID=234: PDG ID 1000060120 mass=11.1749 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( 391.059, 701.431, 478.216; 1131.38 ) cm with momentum ( 0.0364255, 0.0195425, -0.0112059; 11.1749 ) GeV/c
+  stops by ionIoni at ( 391.059, 701.431, 478.216; 1131.39 ) cm with momentum ( 0, 0, -0; 11.1749 ) GeV/c
+  comes with a trajectory 0.000517806 cm long in 2 points:
+      ( 391.059, 701.431, 478.216; 1131.38 ) -- ( 391.059, 701.431, 478.216; 1131.39 )
+
+[#8] (from 'generator::SinglesGen') ID=235: proton mass=0.938272 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( 324.516, 714.617, 463.291; 1244.21 ) cm with momentum ( -0.00578241, 0.0107672, 0.000628983; 0.938352 ) GeV/c
+  stops by hIoni at ( 324.515, 714.618, 463.291; 1244.21 ) cm with momentum ( -0, 0, 0; 0.938272 ) GeV/c
+  comes with a trajectory 0.00198868 cm long in 3 points:
+      ( 324.516, 714.617, 463.291; 1244.21 ) -- ( 324.515, 714.618, 463.291; 1244.21 )
+      ( 324.515, 714.618, 463.291; 1244.21 )
+
+
+Event run: 1 subRun: 0 event: 37: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 230.695, -461.353, 1208.99; 0 ) cm with momentum ( 0.173161, -0.099236, 0.0129429; 0.2 ) GeV/c
+  stops by conv at ( 262.015, -479.302, 1211.33; 1.20663 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 36.1738 cm long in 2 points:
+      ( 230.695, -461.353, 1208.99; 0 ) -- ( 262.015, -479.302, 1211.33; 1.20663 )
+
+
+Event run: 1 subRun: 0 event: 38: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 275.749, 388.887, 586.956; 0 ) cm with momentum ( -0.0341459, 0.0471572, 0.191338; 0.2 ) GeV/c
+  stops by conv at ( 275.52, 389.204, 588.244; 0.0449047 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 1.34621 cm long in 2 points:
+      ( 275.749, 388.887, 586.956; 0 ) -- ( 275.52, 389.204, 588.244; 0.0449047 )
+
+
+Event run: 1 subRun: 0 event: 39: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -74.4455, -468.441, 1062.57; 0 ) cm with momentum ( 0.130457, -0.148478, -0.0305808; 0.2 ) GeV/c
+  stops by conv at ( -67.1769, -476.714, 1060.87; 0.371695 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 11.1431 cm long in 2 points:
+      ( -74.4455, -468.441, 1062.57; 0 ) -- ( -67.1769, -476.714, 1060.87; 0.371695 )
+
+
+Event run: 1 subRun: 0 event: 40: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -316.15, 170.305, 1057.62; 0 ) cm with momentum ( -0.0144602, 0.0525245, 0.192437; 0.2 ) GeV/c
+  stops by conv at ( -316.424, 171.301, 1061.27; 0.126558 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 3.79412 cm long in 2 points:
+      ( -316.15, 170.305, 1057.62; 0 ) -- ( -316.424, 171.301, 1061.27; 0.126558 )
+
+
+Event run: 1 subRun: 0 event: 41: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 194.59, -531.15, 1314.35; 0 ) cm with momentum ( 0.183576, -0.0659391, 0.0441806; 0.2 ) GeV/c
+  stops by conv at ( 196.457, -531.821, 1314.79; 0.067842 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 2.03385 cm long in 2 points:
+      ( 194.59, -531.15, 1314.35; 0 ) -- ( 196.457, -531.821, 1314.79; 0.067842 )
+
+
+Event run: 1 subRun: 0 event: 42: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -340.607, -354.135, 960.277; 0 ) cm with momentum ( 0.012825, 0.0561994, 0.191513; 0.2 ) GeV/c
+  stops by conv at ( -340.531, -353.801, 961.416; 0.0396676 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 1.1892 cm long in 2 points:
+      ( -340.607, -354.135, 960.277; 0 ) -- ( -340.531, -353.801, 961.416; 0.0396676 )
+
+
+Event run: 1 subRun: 0 event: 43: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -192.904, 0.0213847, 877.262; 0 ) cm with momentum ( -0.154617, -0.0489801, 0.117024; 0.2 ) GeV/c
+  stops by conv at ( -261.223, -21.6211, 928.97; 2.94779 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 88.3726 cm long in 4 points:
+      ( -192.904, 0.0213847, 877.262; 0 ) -- ( -192.972, 0, 877.313; 0.00291268 )
+      ( -260.845, -21.5013, 928.684; 2.93147 ) -- ( -261.223, -21.6211, 928.97; 2.94779 )
+
+
+Event run: 1 subRun: 0 event: 44: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 249.521, 160.81, 358.103; 0 ) cm with momentum ( 0.169082, -0.10681, 0.00173452; 0.2 ) GeV/c
+  stops by conv at ( 274.931, 144.758, 358.363; 1.00261 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 30.0574 cm long in 2 points:
+      ( 249.521, 160.81, 358.103; 0 ) -- ( 274.931, 144.758, 358.363; 1.00261 )
+
+
+Event run: 1 subRun: 0 event: 45: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 0.13926, -236.74, 845.68; 0 ) cm with momentum ( -0.138496, -0.0181204, 0.143145; 0.2 ) GeV/c
+  stops by conv at ( -26.4266, -240.216, 873.137; 1.27967 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 38.3635 cm long in 9 points:
+      ( 0.13926, -236.74, 845.68; 0 ) -- ( -2.53305, -237.089, 848.442; 0.128724 )
+      ( -2.99405, -237.15, 848.918; 0.15093 ) -- ( -3.00905, -237.152, 848.934; 0.151653 )
+      ( -3.47005, -237.212, 849.41; 0.173859 ) -- ( -3.48505, -237.214, 849.426; 0.174582 )
+      ( -3.94605, -237.274, 849.902; 0.196788 ) -- ( -3.96105, -237.276, 849.917; 0.19751 )
+      ( -26.4266, -240.216, 873.137; 1.27967 )
+
+
+Event run: 1 subRun: 0 event: 46: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 149.096, 141.103, 1068.85; 0 ) cm with momentum ( -0.0479467, 0.0475625, 0.188252; 0.2 ) GeV/c
+  stops by conv at ( 147.488, 142.698, 1075.16; 0.223685 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 6.7059 cm long in 2 points:
+      ( 149.096, 141.103, 1068.85; 0 ) -- ( 147.488, 142.698, 1075.16; 0.223685 )
+
+
+Event run: 1 subRun: 0 event: 47: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 57.9619, 242.958, 576.608; 0 ) cm with momentum ( 0.0133477, 0.0570011, 0.19124; 0.2 ) GeV/c
+  stops by conv at ( 58.9644, 247.239, 590.971; 0.501047 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 15.021 cm long in 2 points:
+      ( 57.9619, 242.958, 576.608; 0 ) -- ( 58.9644, 247.239, 590.971; 0.501047 )
+
+
+Event run: 1 subRun: 0 event: 48: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 212.144, 499.997, 1160.06; 0 ) cm with momentum ( -0.008898, 0.0533777, 0.19254; 0.2 ) GeV/c
+  stops by conv at ( 211.894, 501.495, 1165.46; 0.187284 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 5.61463 cm long in 3 points:
+      ( 212.144, 499.997, 1160.06; 0 ) -- ( 212.097, 500.279, 1161.07; 0.0352036 )
+      ( 211.894, 501.495, 1165.46; 0.187284 )
+
+
+Event run: 1 subRun: 0 event: 49: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 99.4044, -531.796, 11.7305; 0 ) cm with momentum ( -0.15447, -0.116706, 0.0501878; 0.2 ) GeV/c
+  stops by conv at ( 66.0004, -557.033, 22.5836; 1.44266 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 43.2499 cm long in 2 points:
+      ( 99.4044, -531.796, 11.7305; 0 ) -- ( 66.0004, -557.033, 22.5836; 1.44266 )
+
+
+Event run: 1 subRun: 0 event: 50: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -308.136, 78.9161, 68.7761; 0 ) cm with momentum ( 0.17555, -0.0126219, 0.0949892; 0.2 ) GeV/c
+  stops by conv at ( -261.232, 75.5437, 94.1556; 1.78246 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 53.4367 cm long in 2 points:
+      ( -308.136, 78.9161, 68.7761; 0 ) -- ( -261.232, 75.5437, 94.1556; 1.78246 )
+
+
+Event run: 1 subRun: 0 event: 51: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 339.964, 429.307, 1261.82; 0 ) cm with momentum ( -0.105816, 0.0154309, 0.169012; 0.2 ) GeV/c
+  stops by conv at ( 325.194, 431.461, 1285.41; 0.931173 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 27.9159 cm long in 2 points:
+      ( 339.964, 429.307, 1261.82; 0 ) -- ( 325.194, 431.461, 1285.41; 0.931173 )
+
+
+Event run: 1 subRun: 0 event: 52: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 9.68964, 550.135, 1214.21; 0 ) cm with momentum ( 0.0777994, -0.178001, -0.0475711; 0.2 ) GeV/c
+  stops by conv at ( 16.821, 533.819, 1209.85; 0.611516 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 18.3328 cm long in 2 points:
+      ( 9.68964, 550.135, 1214.21; 0 ) -- ( 16.821, 533.819, 1209.85; 0.611516 )
+
+
+Event run: 1 subRun: 0 event: 53: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -172.853, -34.7675, 1107.32; 0 ) cm with momentum ( -0.160114, -0.0668584, 0.0994665; 0.2 ) GeV/c
+  stops by conv at ( -183.192, -39.0845, 1113.74; 0.430756 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 12.9137 cm long in 2 points:
+      ( -172.853, -34.7675, 1107.32; 0 ) -- ( -183.192, -39.0845, 1113.74; 0.430756 )
+
+
+Event run: 1 subRun: 0 event: 54: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 6.88349, 536.09, 118.761; 0 ) cm with momentum ( -0.0080313, 0.0507454, 0.193288; 0.2 ) GeV/c
+  stops by conv at ( 6.2476, 540.108, 134.065; 0.528208 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 15.8353 cm long in 2 points:
+      ( 6.88349, 536.09, 118.761; 0 ) -- ( 6.2476, 540.108, 134.065; 0.528208 )
+
+
+Event run: 1 subRun: 0 event: 55: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -18.1937, 481.572, 1029.02; 0 ) cm with momentum ( 0.179924, -0.0291463, 0.0823269; 0.2 ) GeV/c
+  stops by conv at ( 12.8864, 476.537, 1043.24; 1.15239 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 34.5479 cm long in 16 points:
+      ( -18.1937, 481.572, 1029.02; 0 ) -- ( -3.96105, 479.266, 1035.53; 0.527722 )
+      ( -3.94605, 479.264, 1035.54; 0.528278 ) -- ( -3.48505, 479.189, 1035.75; 0.545371 )
+      ( -3.47005, 479.187, 1035.76; 0.545927 ) -- ( -3.00905, 479.112, 1035.97; 0.56302 )
+      ( -2.99405, 479.11, 1035.97; 0.563577 ) -- ( -2.53305, 479.035, 1036.18; 0.58067 )
+      ( 2.53305, 478.214, 1038.5; 0.768512 ) -- ( 2.99405, 478.14, 1038.71; 0.785605 )
+      ( 3.00905, 478.137, 1038.72; 0.786161 ) -- ( 3.47005, 478.063, 1038.93; 0.803254 )
+      ( 3.48505, 478.06, 1038.94; 0.80381 ) -- ( 3.94605, 477.985, 1039.15; 0.820903 )
+      ( 3.96105, 477.983, 1039.16; 0.82146 ) -- ( 12.8864, 476.537, 1043.24; 1.15239 )
+
+
+Event run: 1 subRun: 0 event: 56: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 271.477, 147.027, 587.044; 0 ) cm with momentum ( 0.143707, -0.137925, -0.0180309; 0.2 ) GeV/c
+  stops by conv at ( 283.765, 135.233, 585.503; 0.570439 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 17.1013 cm long in 2 points:
+      ( 271.477, 147.027, 587.044; 0 ) -- ( 283.765, 135.233, 585.503; 0.570439 )
+
+
+Event run: 1 subRun: 0 event: 57: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -63.7827, -388.076, 315.156; 0 ) cm with momentum ( 0.165641, -0.112081, 0.000969242; 0.2 ) GeV/c
+  stops by conv at ( -45.2451, -400.62, 315.265; 0.746613 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 22.3829 cm long in 2 points:
+      ( -63.7827, -388.076, 315.156; 0 ) -- ( -45.2451, -400.62, 315.265; 0.746613 )
+
+
+Event run: 1 subRun: 0 event: 58: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -187.195, 345.319, 998.334; 0 ) cm with momentum ( 0.185422, -0.0542636, 0.051711; 0.2 ) GeV/c
+  stops by conv at ( -161.013, 337.657, 1005.64; 0.942016 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 28.2409 cm long in 2 points:
+      ( -187.195, 345.319, 998.334; 0 ) -- ( -161.013, 337.657, 1005.64; 0.942016 )
+
+
+Event run: 1 subRun: 0 event: 59: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -23.3729, -188.472, 690.697; 0 ) cm with momentum ( -0.0847796, 0.0274176, 0.179055; 0.2 ) GeV/c
+  stops by conv at ( -27.5628, -187.117, 699.546; 0.329705 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 9.8843 cm long in 3 points:
+      ( -23.3729, -188.472, 690.697; 0 ) -- ( -26.023, -187.615, 696.294; 0.208535 )
+      ( -27.5628, -187.117, 699.546; 0.329705 )
+
+
+Event run: 1 subRun: 0 event: 60: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -346.765, 369.246, 885.282; 0 ) cm with momentum ( 0.180876, -0.0811283, 0.0264935; 0.2 ) GeV/c
+  stops by conv at ( -341.87, 367.05, 885.999; 0.180532 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 5.4122 cm long in 2 points:
+      ( -346.765, 369.246, 885.282; 0 ) -- ( -341.87, 367.05, 885.999; 0.180532 )
+
+
+Event run: 1 subRun: 0 event: 61: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -182.71, 319.622, 1218.03; 0 ) cm with momentum ( -0.13625, -0.145912, 0.0120654; 0.2 ) GeV/c
+  stops by conv at ( -196.732, 304.606, 1219.27; 0.686566 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 20.5827 cm long in 2 points:
+      ( -182.71, 319.622, 1218.03; 0 ) -- ( -196.732, 304.606, 1219.27; 0.686566 )
+
+
+Event run: 1 subRun: 0 event: 62: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 303.38, -580.045, 588.366; 0 ) cm with momentum ( -0.144294, -0.0291921, 0.135378; 0.2 ) GeV/c
+  stops by conv at ( 289.822, -582.788, 601.086; 0.626852 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 18.7925 cm long in 2 points:
+      ( 303.38, -580.045, 588.366; 0 ) -- ( 289.822, -582.788, 601.086; 0.626852 )
+
+
+Event run: 1 subRun: 0 event: 63: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 100.058, -190.496, 1120.6; 0 ) cm with momentum ( 0.180683, -0.0288663, 0.0807484; 0.2 ) GeV/c
+  stops by conv at ( 113.54, -192.65, 1126.63; 0.497805 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 14.9238 cm long in 2 points:
+      ( 100.058, -190.496, 1120.6; 0 ) -- ( 113.54, -192.65, 1126.63; 0.497805 )
+
+
+Event run: 1 subRun: 0 event: 64: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -272.19, 582.994, 128.354; 0 ) cm with momentum ( -0.143162, -0.13741, 0.0249599; 0.2 ) GeV/c
+  stops by conv at ( -276.929, 578.445, 129.18; 0.220821 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 6.62005 cm long in 2 points:
+      ( -272.19, 582.994, 128.354; 0 ) -- ( -276.929, 578.445, 129.18; 0.220821 )
+
+
+Event run: 1 subRun: 0 event: 65: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 1.96612, -421.483, 416.569; 0 ) cm with momentum ( -0.065867, 0.0393613, 0.184695; 0.2 ) GeV/c
+  stops by conv at ( -9.02477, -414.915, 447.388; 1.1132 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 33.373 cm long in 11 points:
+      ( 1.96612, -421.483, 416.569; 0 ) -- ( -2.53305, -418.794, 429.185; 0.455695 )
+      ( -2.99405, -418.519, 430.478; 0.502387 ) -- ( -3.00905, -418.51, 430.52; 0.503906 )
+      ( -3.47005, -418.234, 431.812; 0.550598 ) -- ( -3.47415, -418.232, 431.824; 0.551013 )
+      ( -3.48105, -418.228, 431.843; 0.551713 ) -- ( -3.48505, -418.225, 431.854; 0.552118 )
+      ( -3.94605, -417.95, 433.147; 0.59881 ) -- ( -3.96105, -417.941, 433.189; 0.600329 )
+      ( -9.02477, -414.915, 447.388; 1.1132 )
+
+
+Event run: 1 subRun: 0 event: 66: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -235.518, -150.439, 231.428; 0 ) cm with momentum ( -0.163009, -0.0749102, 0.0884106; 0.2 ) GeV/c
+  stops by conv at ( -239.882, -152.444, 233.795; 0.178599 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 5.35425 cm long in 3 points:
+      ( -235.518, -150.439, 231.428; 0 ) -- ( -235.675, -150.511, 231.514; 0.00645368 )
+      ( -239.882, -152.444, 233.795; 0.178599 )
+
+
+Event run: 1 subRun: 0 event: 67: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -269.945, -274.345, 624.898; 0 ) cm with momentum ( 0.0706033, -0.179731, -0.0520763; 0.2 ) GeV/c
+  stops by conv at ( -268.364, -278.368, 623.733; 0.149337 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 4.47702 cm long in 2 points:
+      ( -269.945, -274.345, 624.898; 0 ) -- ( -268.364, -278.368, 623.733; 0.149337 )
+
+
+Event run: 1 subRun: 0 event: 68: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -350.793, 413.243, 252.167; 0 ) cm with momentum ( -0.103641, 0.0181667, 0.170084; 0.2 ) GeV/c
+  stops by conv at ( -355.638, 414.093, 260.119; 0.311871 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 9.34965 cm long in 2 points:
+      ( -350.793, 413.243, 252.167; 0 ) -- ( -355.638, 414.093, 260.119; 0.311871 )
+
+
+Event run: 1 subRun: 0 event: 69: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 167.505, 175.817, 305.724; 0 ) cm with momentum ( 0.171425, -0.10302, 0.000721063; 0.2 ) GeV/c
+  stops by conv at ( 187.634, 163.72, 305.809; 0.783335 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 23.4838 cm long in 2 points:
+      ( 167.505, 175.817, 305.724; 0 ) -- ( 187.634, 163.72, 305.809; 0.783335 )
+
+
+Event run: 1 subRun: 0 event: 70: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 8.64036, -55.7595, 351.178; 0 ) cm with momentum ( 0.0514885, 0.0571578, 0.184613; 0.2 ) GeV/c
+  stops by conv at ( 11.2564, -52.8554, 360.558; 0.338958 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 10.1617 cm long in 2 points:
+      ( 8.64036, -55.7595, 351.178; 0 ) -- ( 11.2564, -52.8554, 360.558; 0.338958 )
+
+
+Event run: 1 subRun: 0 event: 71: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -342.945, -146.104, 784.094; 0 ) cm with momentum ( 0.0537269, -0.183579, -0.0584145; 0.2 ) GeV/c
+  stops by conv at ( -338.372, -161.73, 779.121; 0.567847 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 17.0236 cm long in 2 points:
+      ( -342.945, -146.104, 784.094; 0 ) -- ( -338.372, -161.73, 779.121; 0.567847 )
+
+
+Event run: 1 subRun: 0 event: 72: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 315.569, 231.999, 146.138; 0 ) cm with momentum ( 0.0633727, -0.181475, -0.055235; 0.2 ) GeV/c
+  stops by conv at ( 322.191, 213.036, 140.367; 0.697106 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 20.8987 cm long in 2 points:
+      ( 315.569, 231.999, 146.138; 0 ) -- ( 322.191, 213.036, 140.367; 0.697106 )
+
+
+Event run: 1 subRun: 0 event: 73: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 95.6115, 422.694, 1268.77; 0 ) cm with momentum ( -0.129603, -0.00933148, 0.152039; 0.2 ) GeV/c
+  stops by conv at ( 73.7846, 421.123, 1294.38; 1.12353 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 33.6826 cm long in 2 points:
+      ( 95.6115, 422.694, 1268.77; 0 ) -- ( 73.7846, 421.123, 1294.38; 1.12353 )
+
+
+Event run: 1 subRun: 0 event: 74: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 134.794, -126.177, 9.72376; 0 ) cm with momentum ( 0.0629519, -0.182031, -0.0538678; 0.2 ) GeV/c
+  stops by conv at ( 135.458, -128.096, 9.1558; 0.070339 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 2.10871 cm long in 2 points:
+      ( 134.794, -126.177, 9.72376; 0 ) -- ( 135.458, -128.096, 9.1558; 0.070339 )
+
+
+Event run: 1 subRun: 0 event: 75: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -184.349, -300.387, 75.4197; 0 ) cm with momentum ( -0.136626, -0.14492, 0.0182082; 0.2 ) GeV/c
+  stops by conv at ( -218.66, -336.781, 79.9924; 1.67538 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 50.2265 cm long in 2 points:
+      ( -184.349, -300.387, 75.4197; 0 ) -- ( -218.66, -336.781, 79.9924; 1.67538 )
+
+
+Event run: 1 subRun: 0 event: 76: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 192.633, -36.7392, 43.5988; 0 ) cm with momentum ( -0.159886, -0.100773, 0.0654308; 0.2 ) GeV/c
+  stops by conv at ( 183.034, -42.7895, 47.5272; 0.40054 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 12.0079 cm long in 2 points:
+      ( 192.633, -36.7392, 43.5988; 0 ) -- ( 183.034, -42.7895, 47.5272; 0.40054 )
+
+
+Event run: 1 subRun: 0 event: 77: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 240.291, 369.311, 964.314; 0 ) cm with momentum ( -0.123225, -0.00132944, 0.157524; 0.2 ) GeV/c
+  stops by conv at ( 234.359, 369.247, 971.897; 0.321121 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 9.62697 cm long in 2 points:
+      ( 240.291, 369.311, 964.314; 0 ) -- ( 234.359, 369.247, 971.897; 0.321121 )
+
+
+Event run: 1 subRun: 0 event: 78: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 304.788, -517.837, 28.387; 0 ) cm with momentum ( -0.162107, -0.0901855, 0.074753; 0.2 ) GeV/c
+  stops by conv at ( 289.727, -526.215, 35.3318; 0.619785 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 18.5807 cm long in 2 points:
+      ( 304.788, -517.837, 28.387; 0 ) -- ( 289.727, -526.215, 35.3318; 0.619785 )
+
+
+Event run: 1 subRun: 0 event: 79: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -136.398, -463.108, 992.348; 0 ) cm with momentum ( -0.0910915, -0.176445, -0.023868; 0.2 ) GeV/c
+  stops by conv at ( -163.541, -515.686, 985.236; 1.98791 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 59.5962 cm long in 2 points:
+      ( -136.398, -463.108, 992.348; 0 ) -- ( -163.541, -515.686, 985.236; 1.98791 )
+
+
+Event run: 1 subRun: 0 event: 80: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 192.858, -446.21, 993.477; 0 ) cm with momentum ( -0.112884, 0.00874041, 0.164866; 0.2 ) GeV/c
+  stops by conv at ( 190.522, -446.029, 996.889; 0.138071 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 4.13926 cm long in 2 points:
+      ( 192.858, -446.21, 993.477; 0 ) -- ( 190.522, -446.029, 996.889; 0.138071 )
+
+
+Event run: 1 subRun: 0 event: 81: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 128.811, -79.5415, 1156.83; 0 ) cm with momentum ( -0.16386, -0.0859727, 0.0758854; 0.2 ) GeV/c
+  stops by conv at ( 106.799, -91.091, 1167.03; 0.896213 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 26.8678 cm long in 3 points:
+      ( 128.811, -79.5415, 1156.83; 0 ) -- ( 119.656, -84.345, 1161.07; 0.372745 )
+      ( 106.799, -91.091, 1167.03; 0.896213 )
+
+
+Event run: 1 subRun: 0 event: 82: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -13.99, 330.744, 31.2581; 0 ) cm with momentum ( 0.181598, -0.0771184, 0.0327879; 0.2 ) GeV/c
+  stops by conv at ( -11.9847, 329.893, 31.6201; 0.0736703 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 2.20858 cm long in 2 points:
+      ( -13.99, 330.744, 31.2581; 0 ) -- ( -11.9847, 329.893, 31.6201; 0.0736703 )
+
+
+Event run: 1 subRun: 0 event: 83: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -28.6602, 58.1097, 769.761; 0 ) cm with momentum ( 0.155851, 0.0104902, 0.124902; 0.2 ) GeV/c
+  stops by conv at ( -23.2817, 58.4717, 774.071; 0.230231 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 6.90216 cm long in 2 points:
+      ( -28.6602, 58.1097, 769.761; 0 ) -- ( -23.2817, 58.4717, 774.071; 0.230231 )
+
+
+Event run: 1 subRun: 0 event: 84: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 18.5565, 187.57, 698.492; 0 ) cm with momentum ( 0.0428053, -0.1865, -0.0581851; 0.2 ) GeV/c
+  stops by conv at ( 23.1402, 167.599, 692.262; 0.714379 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 21.4165 cm long in 3 points:
+      ( 18.5565, 187.57, 698.492; 0 ) -- ( 20.1739, 180.523, 696.294; 0.252069 )
+      ( 23.1402, 167.599, 692.262; 0.714379 )
+
+
+Event run: 1 subRun: 0 event: 85: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 47.9189, -496.976, 7.33678; 0 ) cm with momentum ( -0.0839592, 0.0259756, 0.179656; 0.2 ) GeV/c
+  stops by conv at ( 46.7281, -496.608, 9.88481; 0.0946177 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 2.83657 cm long in 2 points:
+      ( 47.9189, -496.976, 7.33678; 0 ) -- ( 46.7281, -496.608, 9.88481; 0.0946177 )
+
+
+Event run: 1 subRun: 0 event: 86: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -112.638, 593.39, 1200.41; 0 ) cm with momentum ( 0.0987899, -0.167808, -0.0456186; 0.2 ) GeV/c
+  stops by conv at ( -105.125, 580.628, 1196.94; 0.507352 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 15.21 cm long in 2 points:
+      ( -112.638, 593.39, 1200.41; 0 ) -- ( -105.125, 580.628, 1196.94; 0.507352 )
+
+
+Event run: 1 subRun: 0 event: 87: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 183.948, -340.411, 825.899; 0 ) cm with momentum ( 0.00210274, -0.193041, -0.0522565; 0.2 ) GeV/c
+  stops by conv at ( 184.659, -405.72, 808.22; 2.257 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 67.663 cm long in 2 points:
+      ( 183.948, -340.411, 825.899; 0 ) -- ( 184.659, -405.72, 808.22; 2.257 )
+
+
+Event run: 1 subRun: 0 event: 88: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -26.2139, -210.1, 492.66; 0 ) cm with momentum ( 0.138225, -0.141987, -0.0270845; 0.2 ) GeV/c
+  stops by conv at ( -24.0152, -212.359, 492.229; 0.106117 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 3.1813 cm long in 2 points:
+      ( -26.2139, -210.1, 492.66; 0 ) -- ( -24.0152, -212.359, 492.229; 0.106117 )
+
+
+Event run: 1 subRun: 0 event: 89: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 193.895, -602.368, 1263.09; 0 ) cm with momentum ( -0.157418, -0.113419, 0.048536; 0.2 ) GeV/c
+  stops by conv at ( 183.245, -610.041, 1266.38; 0.451356 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 13.5313 cm long in 4 points:
+      ( 193.895, -602.368, 1263.09; 0 ) -- ( 186.315, -607.829, 1265.43; 0.321221 )
+      ( 185.963, -608.083, 1265.54; 0.336161 ) -- ( 183.245, -610.041, 1266.38; 0.451356 )
+
+
+Event run: 1 subRun: 0 event: 90: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 258.963, 560.26, 1281.01; 0 ) cm with momentum ( 0.184251, -0.0641711, 0.0439726; 0.2 ) GeV/c
+  stops by conv at ( 282.874, 551.932, 1286.71; 0.86576 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 25.9548 cm long in 2 points:
+      ( 258.963, 560.26, 1281.01; 0 ) -- ( 282.874, 551.932, 1286.71; 0.86576 )
+
+
+Event run: 1 subRun: 0 event: 91: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -79.1357, 107.481, 539.654; 0 ) cm with momentum ( -0.0899729, -0.177116, -0.0231269; 0.2 ) GeV/c
+  stops by conv at ( -85.7118, 94.5358, 537.964; 0.487601 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 14.6179 cm long in 2 points:
+      ( -79.1357, 107.481, 539.654; 0 ) -- ( -85.7118, 94.5358, 537.964; 0.487601 )
+
+
+Event run: 1 subRun: 0 event: 92: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 185.344, 589.541, 1314.69; 0 ) cm with momentum ( -0.0479496, 0.0476233, 0.188236; 0.2 ) GeV/c
+  stops by conv at ( 183.059, 591.811, 1323.66; 0.31794 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 9.53161 cm long in 2 points:
+      ( 185.344, 589.541, 1314.69; 0 ) -- ( 183.059, 591.811, 1323.66; 0.31794 )
+
+
+Event run: 1 subRun: 0 event: 93: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 326.292, -310.171, 308.396; 0 ) cm with momentum ( -0.144233, -0.0194234, 0.137185; 0.2 ) GeV/c
+  stops by conv at ( 324.988, -310.347, 309.636; 0.0603306 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 1.80866 cm long in 2 points:
+      ( 326.292, -310.171, 308.396; 0 ) -- ( 324.988, -310.347, 309.636; 0.0603306 )
+
+
+Event run: 1 subRun: 0 event: 94: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 119.839, 126.106, 346.127; 0 ) cm with momentum ( -0.157451, -0.106922, 0.0614568; 0.2 ) GeV/c
+  stops by conv at ( 111.038, 120.13, 349.562; 0.372891 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 11.179 cm long in 2 points:
+      ( 119.839, 126.106, 346.127; 0 ) -- ( 111.038, 120.13, 349.562; 0.372891 )
+
+
+Event run: 1 subRun: 0 event: 95: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -143.578, 245.785, 65.9194; 0 ) cm with momentum ( 0.0121225, 0.0585494, 0.190853; 0.2 ) GeV/c
+  stops by conv at ( -141.408, 256.267, 100.086; 1.19429 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 35.8038 cm long in 2 points:
+      ( -143.578, 245.785, 65.9194; 0 ) -- ( -141.408, 256.267, 100.086; 1.19429 )
+
+
+Event run: 1 subRun: 0 event: 96: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 233.388, -541.697, 564.941; 0 ) cm with momentum ( -0.0328866, 0.0458041, 0.191887; 0.2 ) GeV/c
+  stops by conv at ( 232.424, -540.354, 570.564; 0.195489 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 5.86061 cm long in 2 points:
+      ( 233.388, -541.697, 564.941; 0 ) -- ( 232.424, -540.354, 570.564; 0.195489 )
+
+
+Event run: 1 subRun: 0 event: 97: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -256.764, 56.1249, 325.15; 0 ) cm with momentum ( -0.161853, -0.0845376, 0.081591; 0.2 ) GeV/c
+  stops by conv at ( -258.62, 55.1557, 326.085; 0.0764855 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 2.29298 cm long in 2 points:
+      ( -256.764, 56.1249, 325.15; 0 ) -- ( -258.62, 55.1557, 326.085; 0.0764855 )
+
+
+Event run: 1 subRun: 0 event: 98: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 29.0197, -289.834, 591.862; 0 ) cm with momentum ( 0.131033, 0.0302814, 0.148031; 0.2 ) GeV/c
+  stops by conv at ( 45.7696, -285.963, 610.785; 0.852783 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 25.5658 cm long in 2 points:
+      ( 29.0197, -289.834, 591.862; 0 ) -- ( 45.7696, -285.963, 610.785; 0.852783 )
+
+
+Event run: 1 subRun: 0 event: 99: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 335.833, 226.763, 282.087; 0 ) cm with momentum ( 0.182692, -0.0720466, 0.0378554; 0.2 ) GeV/c
+  stops by conv at ( 368.042, 214.062, 288.761; 1.17614 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 35.2598 cm long in 4 points:
+      ( 335.833, 226.763, 282.087; 0 ) -- ( 363.376, 215.902, 287.794; 1.00577 )
+      ( 363.392, 215.895, 287.797; 1.00635 ) -- ( 368.042, 214.062, 288.761; 1.17614 )
+
+
+Event run: 1 subRun: 0 event: 100: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -48.0905, 26.7318, 853.108; 0 ) cm with momentum ( -0.0309672, -0.190639, -0.0519411; 0.2 ) GeV/c
+  stops by conv at ( -49.1695, 20.0897, 851.298; 0.232434 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 6.96819 cm long in 2 points:
+      ( -48.0905, 26.7318, 853.108; 0 ) -- ( -49.1695, 20.0897, 851.298; 0.232434 )
+
+
+Event run: 1 subRun: 0 event: 101: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -193.725, -412.572, 616.483; 0 ) cm with momentum ( 0.0838223, 0.0525558, 0.173815; 0.2 ) GeV/c
+  stops by conv at ( -171.455, -398.608, 662.663; 1.77245 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 53.1366 cm long in 2 points:
+      ( -193.725, -412.572, 616.483; 0 ) -- ( -171.455, -398.608, 662.663; 1.77245 )
+
+
+Event run: 1 subRun: 0 event: 102: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 303.752, 2.15431, 475.264; 0 ) cm with momentum ( 0.102923, -0.165527, -0.044807; 0.2 ) GeV/c
+  stops by conv at ( 310.644, -8.9283, 472.264; 0.446665 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 13.3907 cm long in 3 points:
+      ( 303.752, 2.15431, 475.264; 0 ) -- ( 305.092, 0, 474.681; 0.0868257 )
+      ( 310.644, -8.9283, 472.264; 0.446665 )
+
+
+Event run: 1 subRun: 0 event: 103: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 161.522, -294.828, 262.543; 0 ) cm with momentum ( 0.0475713, 0.0591215, 0.185045; 0.2 ) GeV/c
+  stops by conv at ( 164.825, -290.724, 275.39; 0.463168 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 13.8854 cm long in 2 points:
+      ( 161.522, -294.828, 262.543; 0 ) -- ( 164.825, -290.724, 275.39; 0.463168 )
+
+
+Event run: 1 subRun: 0 event: 104: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -305.94, 370.087, 561.57; 0 ) cm with momentum ( -0.0693401, -0.184125, -0.0359131; 0.2 ) GeV/c
+  stops by conv at ( -310.176, 358.839, 559.376; 0.407535 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 12.2176 cm long in 2 points:
+      ( -305.94, 370.087, 561.57; 0 ) -- ( -310.176, 358.839, 559.376; 0.407535 )
+
+
+Event run: 1 subRun: 0 event: 105: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 6.10428, 427.945, 936.183; 0 ) cm with momentum ( 0.0340802, 0.0575332, 0.18849; 0.2 ) GeV/c
+  stops by conv at ( 8.93127, 432.718, 951.818; 0.553391 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 16.5902 cm long in 2 points:
+      ( 6.10428, 427.945, 936.183; 0 ) -- ( 8.93127, 432.718, 951.818; 0.553391 )
+
+
+Event run: 1 subRun: 0 event: 106: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -11.9144, 31.9433, 472.965; 0 ) cm with momentum ( 0.0470001, 0.0605014, 0.184745; 0.2 ) GeV/c
+  stops by conv at ( -9.0595, 35.6183, 484.187; 0.405226 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 12.1484 cm long in 2 points:
+      ( -11.9144, 31.9433, 472.965; 0 ) -- ( -9.0595, 35.6183, 484.187; 0.405226 )
+
+
+Event run: 1 subRun: 0 event: 107: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 226.827, -594.343, 465.694; 0 ) cm with momentum ( 0.0607058, 0.0540758, 0.182731; 0.2 ) GeV/c
+  stops by conv at ( 227.254, -593.962, 466.98; 0.0469456 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 1.40739 cm long in 2 points:
+      ( 226.827, -594.343, 465.694; 0 ) -- ( 227.254, -593.962, 466.98; 0.0469456 )
+
+
+Event run: 1 subRun: 0 event: 108: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 103.822, 399.456, 1089.58; 0 ) cm with momentum ( -0.0464924, 0.0448429, 0.189282; 0.2 ) GeV/c
+  stops by conv at ( 103.608, 399.663, 1090.45; 0.0307085 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 0.920617 cm long in 2 points:
+      ( 103.822, 399.456, 1089.58; 0 ) -- ( 103.608, 399.663, 1090.45; 0.0307085 )
+
+
+Event run: 1 subRun: 0 event: 109: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -171.005, -161.413, 1224.59; 0 ) cm with momentum ( 0.0864001, -0.174719, -0.0448123; 0.2 ) GeV/c
+  stops by conv at ( -166.45, -170.624, 1222.23; 0.351696 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 10.5436 cm long in 2 points:
+      ( -171.005, -161.413, 1224.59; 0 ) -- ( -166.45, -170.624, 1222.23; 0.351696 )
+
+
+Event run: 1 subRun: 0 event: 110: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 27.281, -74.6629, 794.255; 0 ) cm with momentum ( -0.164916, -0.0805201, 0.079494; 0.2 ) GeV/c
+  stops by conv at ( 15.864, -80.2372, 799.758; 0.461846 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 13.8458 cm long in 2 points:
+      ( 27.281, -74.6629, 794.255; 0 ) -- ( 15.864, -80.2372, 799.758; 0.461846 )
+
+
+Event run: 1 subRun: 0 event: 111: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 36.6392, -383.415, 231.024; 0 ) cm with momentum ( 0.107576, -0.163154, -0.0425234; 0.2 ) GeV/c
+  stops by conv at ( 37.2939, -384.408, 230.765; 0.0405996 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 1.21715 cm long in 2 points:
+      ( 36.6392, -383.415, 231.024; 0 ) -- ( 37.2939, -384.408, 230.765; 0.0405996 )
+
+
+Event run: 1 subRun: 0 event: 112: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -316.865, -36.1424, 1153.29; 0 ) cm with momentum ( 0.171142, -0.103359, 0.00522974; 0.2 ) GeV/c
+  stops by conv at ( -314.308, -37.6863, 1153.37; 0.0996498 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 2.98743 cm long in 2 points:
+      ( -316.865, -36.1424, 1153.29; 0 ) -- ( -314.308, -37.6863, 1153.37; 0.0996498 )
+
+
+Event run: 1 subRun: 0 event: 113: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 47.9142, -242.349, 805.484; 0 ) cm with momentum ( 0.103283, 0.0476388, 0.164509; 0.2 ) GeV/c
+  stops by conv at ( 49.2439, -241.735, 807.602; 0.0858898 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 2.57491 cm long in 2 points:
+      ( 47.9142, -242.349, 805.484; 0 ) -- ( 49.2439, -241.735, 807.602; 0.0858898 )
+
+
+Event run: 1 subRun: 0 event: 114: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -207.364, -163.335, 695.871; 0 ) cm with momentum ( 0.0326696, 0.0562802, 0.189117; 0.2 ) GeV/c
+  stops by conv at ( -202.241, -154.51, 725.524; 1.04604 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 31.3595 cm long in 3 points:
+      ( -207.364, -163.335, 695.871; 0 ) -- ( -207.291, -163.209, 696.294; 0.0149063 )
+      ( -202.241, -154.51, 725.524; 1.04604 )
+
+
+Event run: 1 subRun: 0 event: 115: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 129.254, 367.371, 221.365; 0 ) cm with momentum ( -0.105558, -0.169107, -0.0161329; 0.2 ) GeV/c
+  stops by conv at ( 124.089, 359.097, 220.575; 0.326416 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 9.78571 cm long in 2 points:
+      ( 129.254, 367.371, 221.365; 0 ) -- ( 124.089, 359.097, 220.575; 0.326416 )
+
+
+Event run: 1 subRun: 0 event: 116: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -233.459, -246.789, 99.8281; 0 ) cm with momentum ( 0.0419771, -0.187564, -0.0552968; 0.2 ) GeV/c
+  stops by conv at ( -228.943, -266.967, 93.8791; 0.717708 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 21.5163 cm long in 2 points:
+      ( -233.459, -246.789, 99.8281; 0 ) -- ( -228.943, -266.967, 93.8791; 0.717708 )
+
+
+Event run: 1 subRun: 0 event: 117: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 86.3233, 449.772, 1310.46; 0 ) cm with momentum ( -0.151577, -0.043277, 0.123091; 0.2 ) GeV/c
+  stops by conv at ( 79.4021, 447.796, 1316.09; 0.304619 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 9.13225 cm long in 2 points:
+      ( 86.3233, 449.772, 1310.46; 0 ) -- ( 79.4021, 447.796, 1316.09; 0.304619 )
+
+
+Event run: 1 subRun: 0 event: 118: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -322.629, 424.877, 274.22; 0 ) cm with momentum ( 0.105767, -0.164123, -0.043323; 0.2 ) GeV/c
+  stops by conv at ( -316.892, 415.975, 271.87; 0.36187 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 10.8486 cm long in 2 points:
+      ( -322.629, 424.877, 274.22; 0 ) -- ( -316.892, 415.975, 271.87; 0.36187 )
+
+
+Event run: 1 subRun: 0 event: 119: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 7.34076, -162.3, 1239; 0 ) cm with momentum ( -0.160678, -0.0986019, 0.0667855; 0.2 ) GeV/c
+  stops by conv at ( 3.1629, -164.864, 1240.73; 0.173463 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 5.20029 cm long in 6 points:
+      ( 7.34076, -162.3, 1239; 0 ) -- ( 3.96105, -164.374, 1240.4; 0.140324 )
+      ( 3.94605, -164.383, 1240.41; 0.140947 ) -- ( 3.48505, -164.666, 1240.6; 0.160087 )
+      ( 3.47005, -164.675, 1240.6; 0.16071 ) -- ( 3.1629, -164.864, 1240.73; 0.173463 )
+
+
+Event run: 1 subRun: 0 event: 120: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -224.259, -183.086, 1212.45; 0 ) cm with momentum ( -0.0470986, 0.0443336, 0.189252; 0.2 ) GeV/c
+  stops by conv at ( -227.767, -179.784, 1226.55; 0.496913 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 14.8971 cm long in 2 points:
+      ( -224.259, -183.086, 1212.45; 0 ) -- ( -227.767, -179.784, 1226.55; 0.496913 )
+
+
+Event run: 1 subRun: 0 event: 121: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -43.4876, -395.67, 667.32; 0 ) cm with momentum ( -0.137003, -0.144101, 0.0215604; 0.2 ) GeV/c
+  stops by conv at ( -57.0304, -409.915, 669.451; 0.659457 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 19.77 cm long in 2 points:
+      ( -43.4876, -395.67, 667.32; 0 ) -- ( -57.0304, -409.915, 669.451; 0.659457 )
+
+
+Event run: 1 subRun: 0 event: 122: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 144.245, 200.178, 308.068; 0 ) cm with momentum ( 0.0731944, 0.0517415, 0.178789; 0.2 ) GeV/c
+  stops by conv at ( 153.698, 206.86, 331.157; 0.861541 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 25.8283 cm long in 2 points:
+      ( 144.245, 200.178, 308.068; 0 ) -- ( 153.698, 206.86, 331.157; 0.861541 )
+
+
+Event run: 1 subRun: 0 event: 123: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 17.8587, 447.3, 141.276; 0 ) cm with momentum ( 0.182859, -0.039894, 0.0705048; 0.2 ) GeV/c
+  stops by conv at ( 35.7359, 443.4, 148.169; 0.652218 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 19.553 cm long in 2 points:
+      ( 17.8587, 447.3, 141.276; 0 ) -- ( 35.7359, 443.4, 148.169; 0.652218 )
+
+
+Event run: 1 subRun: 0 event: 124: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 44.0893, -180.191, 77.9171; 0 ) cm with momentum ( 0.176005, -0.0930923, 0.0188679; 0.2 ) GeV/c
+  stops by conv at ( 79.0924, -198.705, 81.6695; 1.32675 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 39.7751 cm long in 2 points:
+      ( 44.0893, -180.191, 77.9171; 0 ) -- ( 79.0924, -198.705, 81.6695; 1.32675 )
+
+
+Event run: 1 subRun: 0 event: 125: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -293.692, -294.43, 991.19; 0 ) cm with momentum ( 0.0698518, -0.180053, -0.0519773; 0.2 ) GeV/c
+  stops by conv at ( -290.582, -302.445, 988.876; 0.296983 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 8.90331 cm long in 2 points:
+      ( -293.692, -294.43, 991.19; 0 ) -- ( -290.582, -302.445, 988.876; 0.296983 )
+
+
+Event run: 1 subRun: 0 event: 126: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -126.648, -252.666, 1300.69; 0 ) cm with momentum ( -0.142212, -0.0242245, 0.138524; 0.2 ) GeV/c
+  stops by conv at ( -135.13, -254.111, 1308.95; 0.397918 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 11.9293 cm long in 2 points:
+      ( -126.648, -252.666, 1300.69; 0 ) -- ( -135.13, -254.111, 1308.95; 0.397918 )
+
+
+Event run: 1 subRun: 0 event: 127: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -24.3207, 101.189, 1139.85; 0 ) cm with momentum ( -0.141949, -0.0216274, 0.139222; 0.2 ) GeV/c
+  stops by conv at ( -40.4994, 98.7244, 1155.72; 0.760367 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 22.7952 cm long in 2 points:
+      ( -24.3207, 101.189, 1139.85; 0 ) -- ( -40.4994, 98.7244, 1155.72; 0.760367 )
+
+
+Event run: 1 subRun: 0 event: 128: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -122.361, 233.666, 667.145; 0 ) cm with momentum ( 0.118237, -0.157559, -0.0345741; 0.2 ) GeV/c
+  stops by conv at ( -114.329, 222.962, 664.797; 0.453224 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 13.5873 cm long in 2 points:
+      ( -122.361, 233.666, 667.145; 0 ) -- ( -114.329, 222.962, 664.797; 0.453224 )
+
+
+Event run: 1 subRun: 0 event: 129: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 24.2323, -294.052, 1114.7; 0 ) cm with momentum ( 0.0986418, -0.167767, -0.0460855; 0.2 ) GeV/c
+  stops by conv at ( 34.476, -311.474, 1109.91; 0.692798 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 20.7695 cm long in 2 points:
+      ( 24.2323, -294.052, 1114.7; 0 ) -- ( 34.476, -311.474, 1109.91; 0.692798 )
+
+
+Event run: 1 subRun: 0 event: 130: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -305.856, -475.409, 549.689; 0 ) cm with momentum ( -0.10365, -0.170484, -0.0138549; 0.2 ) GeV/c
+  stops by conv at ( -308.326, -479.471, 549.359; 0.158972 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 4.76587 cm long in 2 points:
+      ( -305.856, -475.409, 549.689; 0 ) -- ( -308.326, -479.471, 549.359; 0.158972 )
+
+
+Event run: 1 subRun: 0 event: 131: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -125.616, -516.437, 369.674; 0 ) cm with momentum ( -0.15149, -0.0426803, 0.123407; 0.2 ) GeV/c
+  stops by conv at ( -145.411, -522.014, 385.8; 0.871725 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 26.1336 cm long in 2 points:
+      ( -125.616, -516.437, 369.674; 0 ) -- ( -145.411, -522.014, 385.8; 0.871725 )
+
+
+Event run: 1 subRun: 0 event: 132: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 16.9135, 44.5178, 1098.73; 0 ) cm with momentum ( 0.0247139, 0.0564115, 0.190281; 0.2 ) GeV/c
+  stops by conv at ( 20.5093, 52.7255, 1126.41; 0.970654 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 29.0995 cm long in 2 points:
+      ( 16.9135, 44.5178, 1098.73; 0 ) -- ( 20.5093, 52.7255, 1126.41; 0.970654 )
+
+
+Event run: 1 subRun: 0 event: 133: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 307.319, -321.102, 974.293; 0 ) cm with momentum ( -0.154775, -0.119476, 0.0420731; 0.2 ) GeV/c
+  stops by phot at ( 303.034, -312.768, 977.695; 0.836376 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 25.0739 cm long in 5 points:
+      ( 307.319, -321.102, 974.293; 0 ) -- ( 302.664, -324.696, 975.559; 0.200675 )
+      ( 304.11, -325.718, 974.336; 0.272471 ) -- ( 302.403, -327.113, 974.938; 0.348691 )
+      ( 303.034, -312.768, 977.695; 0.836376 )
+
+
+Event run: 1 subRun: 0 event: 134: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 140.739, 124.724, 1383.08; 0 ) cm with momentum ( -0.165094, -0.0800162, 0.0796319; 0.2 ) GeV/c
+  stops by conv at ( 126.396, 117.773, 1390; 0.579555 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 17.3746 cm long in 2 points:
+      ( 140.739, 124.724, 1383.08; 0 ) -- ( 126.396, 117.773, 1390; 0.579555 )
+
+
+Event run: 1 subRun: 0 event: 135: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -205.236, 395.31, 1227.51; 0 ) cm with momentum ( -0.00967789, -0.192927, -0.0518211; 0.2 ) GeV/c
+  stops by conv at ( -208.989, 320.492, 1207.41; 2.58713 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 77.5601 cm long in 2 points:
+      ( -205.236, 395.31, 1227.51; 0 ) -- ( -208.989, 320.492, 1207.41; 2.58713 )
+
+
+Event run: 1 subRun: 0 event: 136: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 90.3108, -222.776, 761.988; 0 ) cm with momentum ( -0.0161044, -0.193573, -0.047645; 0.2 ) GeV/c
+  stops by conv at ( 90.0352, -226.089, 761.173; 0.114167 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 3.42263 cm long in 2 points:
+      ( 90.3108, -222.776, 761.988; 0 ) -- ( 90.0352, -226.089, 761.173; 0.114167 )
+
+
+Event run: 1 subRun: 0 event: 137: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 249.671, -491.697, 563.987; 0 ) cm with momentum ( -0.00929135, 0.0508071, 0.193216; 0.2 ) GeV/c
+  stops by conv at ( 248.217, -483.748, 594.218; 1.04382 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 31.2929 cm long in 2 points:
+      ( 249.671, -491.697, 563.987; 0 ) -- ( 248.217, -483.748, 594.218; 1.04382 )
+
+
+Event run: 1 subRun: 0 event: 138: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -263.883, -354.911, 1003.62; 0 ) cm with momentum ( -0.150417, -0.12675, 0.0361812; 0.2 ) GeV/c
+  stops by conv at ( -282.678, -370.749, 1008.14; 0.833607 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 24.9909 cm long in 2 points:
+      ( -263.883, -354.911, 1003.62; 0 ) -- ( -282.678, -370.749, 1008.14; 0.833607 )
+
+
+Event run: 1 subRun: 0 event: 139: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -10.0113, -25.7236, 611.625; 0 ) cm with momentum ( 0.10112, 0.0457979, 0.166365; 0.2 ) GeV/c
+  stops by conv at ( -5.71701, -23.7787, 618.691; 0.283313 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 8.49352 cm long in 2 points:
+      ( -10.0113, -25.7236, 611.625; 0 ) -- ( -5.71701, -23.7787, 618.691; 0.283313 )
+
+
+Event run: 1 subRun: 0 event: 140: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -305.315, 98.9613, 989.667; 0 ) cm with momentum ( 0.171881, -0.102227, 0.00253932; 0.2 ) GeV/c
+  stops by conv at ( -289.395, 89.4931, 989.902; 0.617887 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 18.5238 cm long in 2 points:
+      ( -305.315, 98.9613, 989.667; 0 ) -- ( -289.395, 89.4931, 989.902; 0.617887 )
+
+
+Event run: 1 subRun: 0 event: 141: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -301.8, -345.421, 202.935; 0 ) cm with momentum ( 0.0785557, -0.177335, -0.0487981; 0.2 ) GeV/c
+  stops by conv at ( -300.804, -347.67, 202.316; 0.0846223 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 2.53691 cm long in 2 points:
+      ( -301.8, -345.421, 202.935; 0 ) -- ( -300.804, -347.67, 202.316; 0.0846223 )
+
+
+Event run: 1 subRun: 0 event: 142: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 34.4094, -460.57, 741.719; 0 ) cm with momentum ( 0.168512, -0.00182975, 0.107705; 0.2 ) GeV/c
+  stops by conv at ( 37.308, -460.601, 743.571; 0.114753 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 3.44022 cm long in 2 points:
+      ( 34.4094, -460.57, 741.719; 0 ) -- ( 37.308, -460.601, 743.571; 0.114753 )
+
+
+Event run: 1 subRun: 0 event: 143: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -255.934, 200.931, 1220.41; 0 ) cm with momentum ( -0.119935, -0.160032, -0.00235482; 0.2 ) GeV/c
+  stops by conv at ( -288.019, 158.119, 1219.78; 1.78472 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 53.5047 cm long in 2 points:
+      ( -255.934, 200.931, 1220.41; 0 ) -- ( -288.019, 158.119, 1219.78; 1.78472 )
+
+
+Event run: 1 subRun: 0 event: 144: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 196.999, 512.555, 1235.77; 0 ) cm with momentum ( -0.0964866, -0.174242, -0.0181627; 0.2 ) GeV/c
+  stops by conv at ( 192.583, 504.581, 1234.94; 0.30529 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 9.15235 cm long in 2 points:
+      ( 196.999, 512.555, 1235.77; 0 ) -- ( 192.583, 504.581, 1234.94; 0.30529 )
+
+
+Event run: 1 subRun: 0 event: 145: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -39.8398, 570.932, 838.569; 0 ) cm with momentum ( 0.0611971, 0.0503671, 0.183625; 0.2 ) GeV/c
+  stops by conv at ( -22.158, 585.484, 891.625; 1.92755 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 57.7866 cm long in 2 points:
+      ( -39.8398, 570.932, 838.569; 0 ) -- ( -22.158, 585.484, 891.625; 1.92755 )
+
+
+Event run: 1 subRun: 0 event: 146: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -313.797, 512.399, 997.832; 0 ) cm with momentum ( -0.0897758, -0.176902, -0.0254139; 0.2 ) GeV/c
+  stops by conv at ( -334.464, 471.674, 991.981; 1.53581 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 46.0424 cm long in 2 points:
+      ( -313.797, 512.399, 997.832; 0 ) -- ( -334.464, 471.674, 991.981; 1.53581 )
+
+
+Event run: 1 subRun: 0 event: 147: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -179.028, -3.90138, 58.6379; 0 ) cm with momentum ( 0.0830001, 0.0508516, 0.174714; 0.2 ) GeV/c
+  stops by conv at ( -175.571, -1.78368, 65.9139; 0.277824 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 8.32895 cm long in 2 points:
+      ( -179.028, -3.90138, 58.6379; 0 ) -- ( -175.571, -1.78368, 65.9139; 0.277824 )
+
+
+Event run: 1 subRun: 0 event: 148: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -301.43, 517.078, 1285.69; 0 ) cm with momentum ( -0.0796367, 0.0290254, 0.181151; 0.2 ) GeV/c
+  stops by conv at ( -326.811, 526.328, 1343.43; 2.1262 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 63.742 cm long in 2 points:
+      ( -301.43, 517.078, 1285.69; 0 ) -- ( -326.811, 526.328, 1343.43; 2.1262 )
+
+
+Event run: 1 subRun: 0 event: 149: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -105.694, -449.151, 419.91; 0 ) cm with momentum ( -0.138655, -0.0173619, 0.143086; 0.2 ) GeV/c
+  stops by conv at ( -126.453, -451.751, 441.332; 0.998804 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 29.9434 cm long in 2 points:
+      ( -105.694, -449.151, 419.91; 0 ) -- ( -126.453, -451.751, 441.332; 0.998804 )
+
+
+Event run: 1 subRun: 0 event: 150: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -286.316, -66.1037, 157.214; 0 ) cm with momentum ( -0.0319719, -0.190249, -0.0527553; 0.2 ) GeV/c
+  stops by conv at ( -293.469, -108.668, 145.412; 1.49255 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 44.7455 cm long in 2 points:
+      ( -286.316, -66.1037, 157.214; 0 ) -- ( -293.469, -108.668, 145.412; 1.49255 )
+
+
+Event run: 1 subRun: 0 event: 151: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -50.8953, -289.24, 644.797; 0 ) cm with momentum ( -0.115401, -0.163298, -0.0040283; 0.2 ) GeV/c
+  stops by conv at ( -53.3127, -292.661, 644.713; 0.139749 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 4.18956 cm long in 2 points:
+      ( -50.8953, -289.24, 644.797; 0 ) -- ( -53.3127, -292.661, 644.713; 0.139749 )
+
+
+Event run: 1 subRun: 0 event: 152: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -294.533, 205.707, 1093.4; 0 ) cm with momentum ( -0.104788, -0.169806, -0.0136137; 0.2 ) GeV/c
+  stops by conv at ( -298.861, 198.695, 1092.83; 0.275504 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 8.2594 cm long in 2 points:
+      ( -294.533, 205.707, 1093.4; 0 ) -- ( -298.861, 198.695, 1092.83; 0.275504 )
+
+
+Event run: 1 subRun: 0 event: 153: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 327.208, -539.759, 1207.51; 0 ) cm with momentum ( -0.0862536, -0.178587, -0.0258256; 0.2 ) GeV/c
+  stops by conv at ( 309.857, -575.684, 1202.31; 1.34201 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 40.2324 cm long in 2 points:
+      ( 327.208, -539.759, 1207.51; 0 ) -- ( 309.857, -575.684, 1202.31; 1.34201 )
+
+
+Event run: 1 subRun: 0 event: 154: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -89.6926, -95.5942, 144.513; 0 ) cm with momentum ( 0.157112, -0.123179, -0.0119518; 0.2 ) GeV/c
+  stops by conv at ( -87.4152, -97.3798, 144.34; 0.0967061 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 2.89918 cm long in 2 points:
+      ( -89.6926, -95.5942, 144.513; 0 ) -- ( -87.4152, -97.3798, 144.34; 0.0967061 )
+
+
+Event run: 1 subRun: 0 event: 155: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 84.9961, -192.671, 677.273; 0 ) cm with momentum ( -0.159267, -0.105027, 0.0600267; 0.2 ) GeV/c
+  stops by conv at ( 71.1993, -201.769, 682.473; 0.577912 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 17.3254 cm long in 2 points:
+      ( 84.9961, -192.671, 677.273; 0 ) -- ( 71.1993, -201.769, 682.473; 0.577912 )
+
+
+Event run: 1 subRun: 0 event: 156: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -185.418, 553.057, 1371.63; 0 ) cm with momentum ( 0.183206, -0.0692184, 0.0405487; 0.2 ) GeV/c
+  stops by phot at ( -167.097, 523.706, 1414.64; 2.88566 ) cm with momentum ( 0, 0, -0; 0 ) GeV/c
+  comes with a trajectory 86.5098 cm long in 13 points:
+      ( -185.418, 553.057, 1371.63; 0 ) -- ( -177.426, 550.038, 1373.4; 0.29101 )
+      ( -168.56, 552.752, 1392.74; 1.00645 ) -- ( -168.459, 552.743, 1393.46; 1.03069 )
+      ( -168.423, 552.74, 1393.72; 1.03925 ) -- ( -167.32, 552.643, 1401.52; 1.3022 )
+      ( -164.29, 552.271, 1407.74; 1.53333 ) -- ( -164.597, 550.534, 1409.7; 1.62122 )
+      ( -160.715, 530.943, 1418.03; 2.34297 ) -- ( -159.614, 532.555, 1417.34; 2.41203 )
+      ( -165.763, 523.38, 1416.43; 2.78169 ) -- ( -167.556, 523.333, 1415.63; 2.84725 )
+      ( -167.097, 523.706, 1414.64; 2.88566 )
+
+
+Event run: 1 subRun: 0 event: 157: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -225.598, -102.412, 417.161; 0 ) cm with momentum ( 0.160764, -0.118815, -0.00614962; 0.2 ) GeV/c
+  stops by conv at ( -211.055, -113.16, 416.605; 0.603485 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 18.092 cm long in 2 points:
+      ( -225.598, -102.412, 417.161; 0 ) -- ( -211.055, -113.16, 416.605; 0.603485 )
+
+
+Event run: 1 subRun: 0 event: 158: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -219.227, -285.547, 742.973; 0 ) cm with momentum ( 0.167534, -0.10922, 0.0018012; 0.2 ) GeV/c
+  stops by conv at ( -211.421, -290.637, 743.057; 0.310854 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 9.31915 cm long in 2 points:
+      ( -219.227, -285.547, 742.973; 0 ) -- ( -211.421, -290.637, 743.057; 0.310854 )
+
+
+Event run: 1 subRun: 0 event: 159: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -357.026, 432.514, 1165.11; 0 ) cm with momentum ( 0.0105131, -0.193404, -0.0498453; 0.2 ) GeV/c
+  stops by conv at ( -356.022, 414.038, 1160.35; 0.637304 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 19.1059 cm long in 3 points:
+      ( -357.026, 432.514, 1165.11; 0 ) -- ( -356.174, 416.843, 1161.07; 0.540572 )
+      ( -356.022, 414.038, 1160.35; 0.637304 )
+
+
+Event run: 1 subRun: 0 event: 160: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -111.412, 257.882, 417.671; 0 ) cm with momentum ( 0.0840068, 0.0550263, 0.172959; 0.2 ) GeV/c
+  stops by conv at ( -100.288, 265.169, 440.574; 0.88339 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 26.4834 cm long in 2 points:
+      ( -111.412, 257.882, 417.671; 0 ) -- ( -100.288, 265.169, 440.574; 0.88339 )
+
+
+Event run: 1 subRun: 0 event: 161: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -353.539, 230.733, 964.975; 0 ) cm with momentum ( 0.174595, -0.0960265, 0.0171879; 0.2 ) GeV/c
+  stops by conv at ( -349.587, 228.56, 965.364; 0.151004 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 4.52699 cm long in 2 points:
+      ( -353.539, 230.733, 964.975; 0 ) -- ( -349.587, 228.56, 965.364; 0.151004 )
+
+
+Event run: 1 subRun: 0 event: 162: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -122.103, -505.961, 1130.25; 0 ) cm with momentum ( 0.181931, -0.0731588, 0.0393574; 0.2 ) GeV/c
+  stops by conv at ( -97.8356, -515.72, 1135.5; 0.889888 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 26.6782 cm long in 2 points:
+      ( -122.103, -505.961, 1130.25; 0 ) -- ( -97.8356, -515.72, 1135.5; 0.889888 )
+
+
+Event run: 1 subRun: 0 event: 163: data product 'largeant' contains 10 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -133.237, -302.744, 950.042; 0 ) cm with momentum ( 0.142239, -0.138955, -0.0214408; 0.2 ) GeV/c
+  ends by conv at ( -113.123, -322.394, 947.01; 0.943361 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c into 9 particles from ID=50 to ID=62
+  comes with a trajectory 28.2813 cm long in 2 points:
+      ( -133.237, -302.744, 950.042; 0 ) -- ( -113.123, -322.394, 947.01; 0.943361 )
+
+[#1] (from 'generator::SinglesGen') ID=50: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -117.464, -321.837, 940.661; 9.20209 ) cm with momentum ( -0.0640444, 0.0339803, -0.0615739; 37.2157 ) GeV/c
+  stops by ionIoni at ( -117.464, -321.837, 940.661; 9.20238 ) cm with momentum ( -0, 0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 2.25563e-05 cm long in 2 points:
+      ( -117.464, -321.837, 940.661; 9.20209 ) -- ( -117.464, -321.837, 940.661; 9.20238 )
+
+[#2] (from 'generator::SinglesGen') ID=51: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -102.976, -329.303, 961.423; 26.7089 ) cm with momentum ( 0.0291319, -0.0360896, 0.0761017; 37.2156 ) GeV/c
+  stops by ionIoni at ( -102.976, -329.303, 961.423; 26.7092 ) cm with momentum ( 0, -0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 1.8485e-05 cm long in 2 points:
+      ( -102.976, -329.303, 961.423; 26.7089 ) -- ( -102.976, -329.303, 961.423; 26.7092 )
+
+[#3] (from 'generator::SinglesGen') ID=52: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -93.123, -308.189, 987.014; 79.782 ) cm with momentum ( 0.033752, -0.00664219, 0.0701193; 37.2156 ) GeV/c
+  stops by ionIoni at ( -93.123, -308.189, 987.014; 79.7822 ) cm with momentum ( 0, -0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 1.21883e-05 cm long in 2 points:
+      ( -93.123, -308.189, 987.014; 79.782 ) -- ( -93.123, -308.189, 987.014; 79.7822 )
+
+[#4] (from 'generator::SinglesGen') ID=57: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -100.741, -336.889, 937.402; 9.63141 ) cm with momentum ( 0.0222719, -0.0254454, -0.0879318; 37.2157 ) GeV/c
+  stops by ionIoni at ( -100.741, -336.889, 937.402; 9.6317 ) cm with momentum ( 0, -0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 2.19109e-05 cm long in 2 points:
+      ( -100.741, -336.889, 937.402; 9.63141 ) -- ( -100.741, -336.889, 937.402; 9.6317 )
+
+[#5] (from 'generator::SinglesGen') ID=58: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -45.7598, -317.188, 956.317; 44.2697 ) cm with momentum ( 0.0483985, 0.0696501, -0.0154311; 37.2156 ) GeV/c
+  stops by ionIoni at ( -45.7598, -317.188, 956.317; 44.2699 ) cm with momentum ( 0, 0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.66663e-05 cm long in 2 points:
+      ( -45.7598, -317.188, 956.317; 44.2697 ) -- ( -45.7598, -317.188, 956.317; 44.2699 )
+
+[#6] (from 'generator::SinglesGen') ID=59: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=1 at ( -61.6051, -325.228, 966.163; 56.6095 ) cm with momentum ( -0.0715495, -0.0526834, -0.00684732; 37.2156 ) GeV/c
+  stops by ionIoni at ( -61.6051, -325.228, 966.163; 56.6097 ) cm with momentum ( -0, -0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.84819e-05 cm long in 2 points:
+      ( -61.6051, -325.228, 966.163; 56.6095 ) -- ( -61.6051, -325.228, 966.163; 56.6097 )
+
+[#7] (from 'generator::SinglesGen') ID=60: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via neutronInelastic from ID=1 at ( -52.5963, -311.263, 978.103; 68.4682 ) cm with momentum ( -0.00108999, 0.000404215, 0.000378449; 0.00122258 ) GeV/c
+  stops by phot at ( -48.0417, -299.81, 970.115; 69.657 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 35.6382 cm long in 8 points:
+      ( -52.5963, -311.263, 978.103; 68.4682 ) -- ( -60.4632, -308.345, 980.835; 68.7625 )
+      ( -61.456, -306.262, 980.498; 68.8403 ) -- ( -60.0367, -303.785, 977.369; 68.9816 )
+      ( -61.3975, -301.154, 972.994; 69.1578 ) -- ( -48.1819, -300.011, 971.251; 69.6041 )
+      ( -47.6245, -299.75, 970.321; 69.6413 ) -- ( -48.0417, -299.81, 970.115; 69.657 )
+
+[#8] (from 'generator::SinglesGen') ID=61: neutron mass=0.939565 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via neutronInelastic from ID=1 at ( -52.5963, -311.263, 978.103; 68.4682 ) cm with momentum ( 0.00236083, -0.0196928, -0.000397838; 0.939775 ) GeV/c
+  stops by nKiller at ( -391.352, -360.156, 352.921; 21900.4 ) cm with momentum ( 1.90975e-05, -8.48035e-06, 2.54936e-05; 0.939565 ) GeV/c
+  comes with a trajectory 1371.75 cm long in 34 points:
+      ( -52.5963, -311.263, 978.103; 68.4682 ) -- ( -47.6682, -352.37, 977.273; 133.905 )
+      ( -48.7075, -344.489, 982.257; 149.444 ) -- ( -50.0158, -345.293, 980.882; 153 )
+      ( -34.737, -338.013, 999.186; 198.219 ) -- ( -61.2412, -346.771, 1022.73; 266.228 )
+      ( -94.1594, -350.027, 958.354; 405.278 ) -- ( -84.3331, -342.779, 996.444; 486.033 )
+      ( -80.7847, -361.638, 993.924; 526.367 ) -- ( -86.3933, -356.459, 999.754; 547.268 )
+      ( -64.586, -366.648, 1014.91; 611.256 ) -- ( -67.3597, -365.752, 1009.12; 626.548 )
+      ( -67.3113, -365.739, 1009.34; 627.125 ) -- ( -63.5512, -366.674, 1009.98; 637.012 )
+      ( -63.7009, -365.147, 1009.72; 641.069 ) -- ( -64.6676, -366.204, 1013.98; 653.196 )
+      ( -28.57, -426.294, 960.301; 900.546 ) -- ( -144.613, -210.487, 946.018; 1619.36 )
+      ( -151.624, -211.991, 928.684; 1675.48 ) -- ( -245.607, -232.16, 696.294; 2427.77 )
+      ( -339.591, -252.33, 463.904; 3180.06 ) -- ( -363.376, -257.434, 405.09; 3370.46 )
+      ( -363.392, -257.438, 405.051; 3370.58 ) -- ( -378.392, -260.657, 367.961; 3490.65 )
+      ( -378.421, -260.663, 367.89; 3490.88 ) -- ( -379.662, -262.07, 367.851; 3496.56 )
+      ( -379.667, -262.075, 367.85; 3496.59 ) -- ( -384.28, -267.304, 367.705; 3517.7 )
+      ( -384.229, -268.534, 367.817; 3522.93 ) -- ( -387.758, -269.166, 366.296; 3730.08 )
+      ( -387.896, -269.12, 365.704; 3786.7 ) -- ( -389.195, -273.69, 356.416; 4768.48 )
+      ( -391.352, -360.156, 352.921; 21900.4 ) -- ( -391.352, -360.156, 352.921; 21900.4 )
+
+[#9] (from 'generator::SinglesGen') ID=62: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via neutronInelastic from ID=1 at ( -52.5963, -311.263, 978.103; 68.4682 ) cm with momentum ( 0.0225779, 0.0562574, 0.0316296; 37.2156 ) GeV/c
+  stops by ionIoni at ( -52.5962, -311.263, 978.103; 68.4683 ) cm with momentum ( 0, 0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 7.90132e-06 cm long in 2 points:
+      ( -52.5963, -311.263, 978.103; 68.4682 ) -- ( -52.5962, -311.263, 978.103; 68.4683 )
+
+
+Event run: 1 subRun: 0 event: 164: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -219.756, -338.563, 1234.63; 0 ) cm with momentum ( -0.0253455, 0.0510258, 0.191713; 0.2 ) GeV/c
+  stops by conv at ( -230.099, -317.741, 1312.86; 2.72236 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 81.6143 cm long in 2 points:
+      ( -219.756, -338.563, 1234.63; 0 ) -- ( -230.099, -317.741, 1312.86; 2.72236 )
+
+
+Event run: 1 subRun: 0 event: 165: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 252.928, -520.147, 1311.62; 0 ) cm with momentum ( -0.118693, -0.160951, -0.00261058; 0.2 ) GeV/c
+  stops by conv at ( 244.264, -531.897, 1311.43; 0.487014 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 14.6003 cm long in 2 points:
+      ( 252.928, -520.147, 1311.62; 0 ) -- ( 244.264, -531.897, 1311.43; 0.487014 )
+
+
+Event run: 1 subRun: 0 event: 166: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 129.392, 385.126, 792.216; 0 ) cm with momentum ( 0.166345, -0.111023, 0.00181441; 0.2 ) GeV/c
+  stops by conv at ( 150.939, 370.746, 792.451; 0.864126 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 25.9059 cm long in 2 points:
+      ( 129.392, 385.126, 792.216; 0 ) -- ( 150.939, 370.746, 792.451; 0.864126 )
+
+
+Event run: 1 subRun: 0 event: 167: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -245.937, 273.932, 1351.6; 0 ) cm with momentum ( -0.124288, -0.00396845, 0.156642; 0.2 ) GeV/c
+  stops by conv at ( -257.311, 273.569, 1365.93; 0.6105 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 18.3023 cm long in 2 points:
+      ( -245.937, 273.932, 1351.6; 0 ) -- ( -257.311, 273.569, 1365.93; 0.6105 )
+
+
+Event run: 1 subRun: 0 event: 168: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 289.974, -457.565, 371.394; 0 ) cm with momentum ( 0.120636, -0.15552, -0.035504; 0.2 ) GeV/c
+  stops by conv at ( 294.744, -463.714, 369.99; 0.263806 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 7.90871 cm long in 2 points:
+      ( 289.974, -457.565, 371.394; 0 ) -- ( 294.744, -463.714, 369.99; 0.263806 )
+
+
+Event run: 1 subRun: 0 event: 169: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 256.691, -533.001, 730.455; 0 ) cm with momentum ( -0.0648503, 0.043443, 0.184139; 0.2 ) GeV/c
+  stops by conv at ( 245.85, -525.738, 761.238; 1.11526 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 33.4346 cm long in 2 points:
+      ( 256.691, -533.001, 730.455; 0 ) -- ( 245.85, -525.738, 761.238; 1.11526 )
+
+
+Event run: 1 subRun: 0 event: 170: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -227.735, 469.992, 380.373; 0 ) cm with momentum ( 0.12071, -0.155401, -0.0357719; 0.2 ) GeV/c
+  stops by conv at ( -220.119, 460.187, 378.116; 0.420936 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 12.6194 cm long in 2 points:
+      ( -227.735, 469.992, 380.373; 0 ) -- ( -220.119, 460.187, 378.116; 0.420936 )
+
+
+Event run: 1 subRun: 0 event: 171: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -262.297, 445.552, 849.225; 0 ) cm with momentum ( 0.0501477, -0.185687, -0.0548215; 0.2 ) GeV/c
+  stops by conv at ( -236.884, 341.649, 800.854; 4.00742 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 120.139 cm long in 4 points:
+      ( -262.297, 445.552, 849.225; 0 ) -- ( -243.016, 374.16, 828.147; 2.56496 )
+      ( -239.383, 353.074, 813.989; 3.42078 ) -- ( -236.884, 341.649, 800.854; 4.00742 )
+
+
+Event run: 1 subRun: 0 event: 172: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 329.911, -464.465, 1003.74; 0 ) cm with momentum ( 0.179506, -0.0299504, 0.08295; 0.2 ) GeV/c
+  stops by conv at ( 334.988, -465.312, 1006.09; 0.188717 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 5.65761 cm long in 2 points:
+      ( 329.911, -464.465, 1003.74; 0 ) -- ( 334.988, -465.312, 1006.09; 0.188717 )
+
+
+Event run: 1 subRun: 0 event: 173: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -337.235, -29.8206, 571.378; 0 ) cm with momentum ( -0.119078, -0.160676, -0.0019424; 0.2 ) GeV/c
+  stops by conv at ( -353.046, -51.1552, 571.12; 0.885815 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 26.5561 cm long in 2 points:
+      ( -337.235, -29.8206, 571.378; 0 ) -- ( -353.046, -51.1552, 571.12; 0.885815 )
+
+
+Event run: 1 subRun: 0 event: 174: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -157.8, -459.727, 863.738; 0 ) cm with momentum ( 0.180066, -0.0834429, 0.0247716; 0.2 ) GeV/c
+  stops by conv at ( -142.405, -466.861, 865.855; 0.57036 ) cm with momentum ( 0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 17.099 cm long in 2 points:
+      ( -157.8, -459.727, 863.738; 0 ) -- ( -142.405, -466.861, 865.855; 0.57036 )
+
+
+Event run: 1 subRun: 0 event: 175: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 347.065, 364.619, 638.359; 0 ) cm with momentum ( 0.0319669, 0.0572086, 0.188958; 0.2 ) GeV/c
+  stops by conv at ( 364.175, 395.24, 739.5; 3.57083 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 107.051 cm long in 5 points:
+      ( 347.065, 364.619, 638.359; 0 ) -- ( 356.866, 382.159, 696.294; 2.04541 )
+      ( 363.376, 393.81, 734.776; 3.40406 ) -- ( 363.392, 393.838, 734.871; 3.4074 )
+      ( 364.175, 395.24, 739.5; 3.57083 )
+
+
+Event run: 1 subRun: 0 event: 176: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -210.299, 10.9024, 1159.07; 0 ) cm with momentum ( 0.097836, -0.168379, -0.0455708; 0.2 ) GeV/c
+  stops by conv at ( -204.752, 1.35497, 1156.49; 0.378275 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 11.3404 cm long in 2 points:
+      ( -210.299, 10.9024, 1159.07; 0 ) -- ( -204.752, 1.35497, 1156.49; 0.378275 )
+
+
+Event run: 1 subRun: 0 event: 177: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 248.805, 292.321, 1353.87; 0 ) cm with momentum ( -0.088003, -0.178086, -0.0232548; 0.2 ) GeV/c
+  stops by conv at ( 248.422, 291.546, 1353.77; 0.0290523 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 0.870965 cm long in 2 points:
+      ( 248.805, 292.321, 1353.87; 0 ) -- ( 248.422, 291.546, 1353.77; 0.0290523 )
+
+
+Event run: 1 subRun: 0 event: 178: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 97.269, 569.04, 1012.55; 0 ) cm with momentum ( -0.027546, 0.054925, 0.190327; 0.2 ) GeV/c
+  stops by conv at ( 95.8802, 571.809, 1022.14; 0.33634 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 10.0832 cm long in 2 points:
+      ( 97.269, 569.04, 1012.55; 0 ) -- ( 95.8802, 571.809, 1022.14; 0.33634 )
+
+
+Event run: 1 subRun: 0 event: 179: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 322.34, -122.692, 838.873; 0 ) cm with momentum ( -0.116572, -0.162465, -0.0040314; 0.2 ) GeV/c
+  stops by conv at ( 299.589, -154.4, 838.086; 1.30201 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 39.0333 cm long in 2 points:
+      ( 322.34, -122.692, 838.873; 0 ) -- ( 299.589, -154.4, 838.086; 1.30201 )
+
+
+Event run: 1 subRun: 0 event: 180: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 93.0412, 80.6179, 1308.84; 0 ) cm with momentum ( 0.0220887, -0.19133, -0.0538975; 0.2 ) GeV/c
+  stops by conv at ( 96.6909, 49.0045, 1299.93; 1.10229 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 33.0459 cm long in 2 points:
+      ( 93.0412, 80.6179, 1308.84; 0 ) -- ( 96.6909, 49.0045, 1299.93; 1.10229 )
+
+
+Event run: 1 subRun: 0 event: 181: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -77.2668, 39.538, 408.948; 0 ) cm with momentum ( -0.00786737, 0.0513653, 0.193131; 0.2 ) GeV/c
+  stops by conv at ( -77.2908, 39.6947, 409.537; 0.0203518 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 0.610132 cm long in 2 points:
+      ( -77.2668, 39.538, 408.948; 0 ) -- ( -77.2908, 39.6947, 409.537; 0.0203518 )
+
+
+Event run: 1 subRun: 0 event: 182: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -275.557, 266.061, 758.961; 0 ) cm with momentum ( -0.13922, -0.0173687, 0.142535; 0.2 ) GeV/c
+  stops by conv at ( -289.493, 264.322, 773.229; 0.66783 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 20.021 cm long in 2 points:
+      ( -275.557, 266.061, 758.961; 0 ) -- ( -289.493, 264.322, 773.229; 0.66783 )
+
+
+Event run: 1 subRun: 0 event: 183: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 33.0712, -592.508, 1040.91; 0 ) cm with momentum ( -0.142933, -0.0207863, 0.138341; 0.2 ) GeV/c
+  stops by conv at ( -1.09145, -597.476, 1073.98; 1.59452 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 47.8024 cm long in 11 points:
+      ( 33.0712, -592.508, 1040.91; 0 ) -- ( 3.96105, -596.742, 1069.09; 1.35869 )
+      ( 3.94605, -596.744, 1069.1; 1.35939 ) -- ( 3.48505, -596.811, 1069.55; 1.38091 )
+      ( 3.47005, -596.813, 1069.56; 1.38161 ) -- ( 3.00905, -596.88, 1070.01; 1.40313 )
+      ( 2.99405, -596.882, 1070.02; 1.40383 ) -- ( 2.53305, -596.949, 1070.47; 1.42534 )
+      ( 1.15, -597.15, 1071.81; 1.4899 ) -- ( -1.03906, -597.469, 1073.93; 1.59207 )
+      ( -1.09145, -597.476, 1073.98; 1.59452 )
+
+
+Event run: 1 subRun: 0 event: 184: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -3.15599, 362.834, 662.073; 0 ) cm with momentum ( -0.161004, -0.099981, 0.0638868; 0.2 ) GeV/c
+  stops by conv at ( -34.5137, 343.362, 674.516; 1.29932 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 38.9527 cm long in 6 points:
+      ( -3.15599, 362.834, 662.073; 0 ) -- ( -3.47005, 362.639, 662.198; 0.0130131 )
+      ( -3.48505, 362.63, 662.204; 0.0136346 ) -- ( -3.94605, 362.344, 662.387; 0.0327364 )
+      ( -3.96105, 362.334, 662.392; 0.0333579 ) -- ( -34.5137, 343.362, 674.516; 1.29932 )
+
+
+Event run: 1 subRun: 0 event: 185: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -207.356, 314.288, 722.959; 0 ) cm with momentum ( 0.0859407, -0.17474, -0.0456081; 0.2 ) GeV/c
+  stops by conv at ( -184.113, 267.027, 710.623; 1.80434 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 54.0928 cm long in 2 points:
+      ( -207.356, 314.288, 722.959; 0 ) -- ( -184.113, 267.027, 710.623; 1.80434 )
+
+
+Event run: 1 subRun: 0 event: 186: data product 'largeant' contains 7 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -185.203, 525.064, 871.369; 0 ) cm with momentum ( 0.061291, -0.182589, -0.053896; 0.2 ) GeV/c
+  ends by conv at ( -177.723, 502.781, 864.792; 0.814165 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c into 3 particles from ID=252 to ID=254
+  comes with a trajectory 24.408 cm long in 2 points:
+      ( -185.203, 525.064, 871.369; 0 ) -- ( -177.723, 502.781, 864.792; 0.814165 )
+
+[#1] (from 'generator::SinglesGen') ID=252: neutron mass=0.939565 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via neutronInelastic from ID=1 at ( -143.296, 379.328, 841.909; 13.4825 ) cm with momentum ( 0.014961, -0.0377086, 0.0152495; 0.940564 ) GeV/c
+  ends by nKiller at ( -289.863, 755.53, 1257.56; 10622.7 ) cm with momentum ( -2.2073e-05, 6.11577e-05, -0.000107857; 0.939565 ) GeV/c into 3 particles from ID=259 to ID=261
+  comes with a trajectory 2611.76 cm long in 121 points:
+      ( -143.296, 379.328, 841.909; 13.4825 ) -- ( -135.97, 360.862, 849.377; 28.8469 )
+      ( -137.172, 371.313, 851.872; 37.0373 ) -- ( -139.124, 357.295, 861.522; 50.5646 )
+      ( -140.052, 363.129, 861.565; 55.4449 ) -- ( -133.9, 385.934, 862.176; 75.0066 )
+      ( -144.627, 386.268, 854.058; 86.4891 ) -- ( -162.917, 411.644, 859.515; 114.015 )
+      ( -157.118, 397.481, 867.76; 129.77 ) -- ( -153.197, 387.2, 858.35; 143.106 )
+      ( -186.073, 413.001, 928.515; 222.006 ) -- ( -147.754, 400.661, 902.762; 270.404 )
+      ( -177.119, 408.446, 899.865; 302.736 ) -- ( -201.688, 391.069, 928.684; 347.556 )
+      ( -224.738, 374.765, 955.722; 389.608 ) -- ( -231.163, 378.035, 950.697; 399.332 )
+      ( -174.888, 306.954, 1023.81; 534.671 ) -- ( -164.054, 328.382, 999.111; 576.431 )
+      ( -168.498, 333.737, 1015.57; 598.957 ) -- ( -169.059, 333.237, 997.577; 622.786 )
+      ( -174.823, 327.834, 1021.35; 657.603 ) -- ( -174.521, 327.985, 1018.35; 662.015 )
+      ( -172.146, 331.523, 1017.83; 668.411 ) -- ( -176.045, 337.985, 1013.17; 681.825 )
+      ( -155.896, 341.854, 1028.1; 721.715 ) -- ( -141.594, 300.54, 987.992; 818.125 )
+      ( -142.296, 305.961, 992.778; 830.539 ) -- ( -144.449, 306.333, 988.79; 838.603 )
+      ( -157.764, 399.648, 1161.07; 1202.12 ) -- ( -161.723, 427.398, 1212.31; 1310.22 )
+      ( -81.5721, 434.789, 1161.07; 1493.61 ) -- ( -3.96105, 441.946, 1111.46; 1671.19 )
+      ( -3.94605, 441.947, 1111.45; 1671.23 ) -- ( -3.48505, 441.99, 1111.16; 1672.28 )
+      ( -3.47005, 441.991, 1111.15; 1672.32 ) -- ( -3.00905, 442.033, 1110.86; 1673.37 )
+      ( -2.99405, 442.035, 1110.85; 1673.41 ) -- ( -2.53305, 442.077, 1110.55; 1674.46 )
+      ( 2.53305, 442.545, 1107.31; 1686.05 ) -- ( 2.99405, 442.587, 1107.02; 1687.11 )
+      ( 3.00905, 442.588, 1107.01; 1687.14 ) -- ( 3.47005, 442.631, 1106.71; 1688.2 )
+      ( 3.48505, 442.632, 1106.7; 1688.23 ) -- ( 3.94605, 442.675, 1106.41; 1689.29 )
+      ( 3.96105, 442.676, 1106.4; 1689.32 ) -- ( 9.86105, 443.22, 1102.63; 1702.82 )
+      ( 48.1955, 468.087, 1077; 1803.74 ) -- ( 32.1442, 444.332, 1093.48; 1870.64 )
+      ( 34.8939, 476.136, 1072.57; 1951.65 ) -- ( 33.5239, 442.867, 1066.28; 2026.77 )
+      ( 34.0455, 444.842, 1066.03; 2031.56 ) -- ( 22.2519, 459.734, 1078.58; 2085.31 )
+      ( 20.8311, 463.169, 1081.91; 2097.12 ) -- ( 19.6904, 461.399, 1082.84; 2102.71 )
+      ( 15.4836, 457.809, 1073.27; 2130.2 ) -- ( 16.9578, 457.143, 1073.99; 2134.79 )
+      ( 14.3465, 457.656, 1073.94; 2142.01 ) -- ( 13.408, 458.632, 1073.77; 2145.73 )
+      ( 11.1403, 461.554, 1074.67; 2156.13 ) -- ( 20.9242, 468.242, 1055.62; 2219.36 )
+      ( 3.96105, 467.782, 1047.9; 2273.29 ) -- ( 3.94605, 467.782, 1047.89; 2273.34 )
+      ( 3.48505, 467.769, 1047.68; 2274.81 ) -- ( 3.47005, 467.769, 1047.67; 2274.85 )
+      ( 3.00905, 467.757, 1047.46; 2276.32 ) -- ( 2.99405, 467.756, 1047.46; 2276.37 )
+      ( 2.53305, 467.744, 1047.25; 2277.83 ) -- ( 1.15, 467.706, 1046.62; 2282.23 )
+      ( -1.15, 467.644, 1045.57; 2289.55 ) -- ( -2.53305, 467.606, 1044.94; 2293.94 )
+      ( -2.99405, 467.594, 1044.73; 2295.41 ) -- ( -3.00905, 467.593, 1044.73; 2295.46 )
+      ( -3.47005, 467.581, 1044.52; 2296.92 ) -- ( -3.47149, 467.581, 1044.52; 2296.93 )
+      ( -3.48504, 467.58, 1044.51; 2296.97 ) -- ( -3.48505, 467.58, 1044.51; 2296.97 )
+      ( -3.94605, 467.568, 1044.3; 2298.44 ) -- ( -3.96105, 467.567, 1044.29; 2298.48 )
+      ( -50.0836, 466.317, 1023.31; 2445.14 ) -- ( -112.312, 435.477, 1161.07; 2902.92 )
+      ( -217.281, 383.456, 1393.46; 3675.11 ) -- ( -217.395, 383.399, 1393.72; 3675.95 )
+      ( -239.323, 372.532, 1442.26; 3837.26 ) -- ( -239.341, 372.523, 1442.3; 3837.39 )
+      ( -236.936, 369.694, 1442.78; 3848.7 ) -- ( -236.991, 369.81, 1442.59; 3849.41 )
+      ( -237.11, 370.576, 1442.26; 3852.04 ) -- ( -254.851, 485.096, 1393.72; 4244.3 )
+      ( -254.944, 485.695, 1393.46; 4246.36 ) -- ( -272.655, 600.019, 1345; 4637.96 )
+      ( -273.865, 607.829, 1341.69; 4664.71 ) -- ( -273.904, 608.083, 1341.58; 4665.58 )
+      ( -280.139, 648.329, 1324.52; 4803.44 ) -- ( -287.885, 698.329, 1303.33; 4974.7 )
+      ( -288.082, 699.599, 1302.79; 4979.05 ) -- ( -288.083, 699.604, 1302.79; 4979.07 )
+      ( -293.228, 732.817, 1288.71; 5092.84 ) -- ( -308.28, 741.616, 1295.65; 5154.48 )
+      ( -312.687, 750.336, 1298.16; 5193.58 ) -- ( -315.761, 754.355, 1300.38; 5215.59 )
+      ( -318.302, 749.603, 1306.07; 5248.81 ) -- ( -318.291, 748.49, 1301.75; 5270.33 )
+      ( -298.013, 763.383, 1274.56; 5453.78 ) -- ( -298.875, 767.325, 1269.81; 5495.6 )
+      ( -305.696, 772.615, 1263.59; 5567.95 ) -- ( -311.076, 779.599, 1261.19; 5636.16 )
+      ( -311.08, 779.604, 1261.19; 5636.21 ) -- ( -314.324, 783.814, 1259.75; 5677.33 )
+      ( -308.154, 779.604, 1258.94; 5735.36 ) -- ( -308.147, 779.599, 1258.94; 5735.43 )
+      ( -277.889, 758.949, 1254.98; 6020.01 ) -- ( -278.6, 748.86, 1252.44; 6177.5 )
+      ( -273.223, 736.998, 1242; 6485.73 ) -- ( -278.964, 729.623, 1237.82; 6808.48 )
+      ( -278.8, 729.011, 1236.81; 6867.9 ) -- ( -284.779, 729.915, 1246.63; 7534.78 )
+      ( -289.39, 738.785, 1254.43; 8490.47 ) -- ( -290.275, 746.928, 1256.63; 9226.18 )
+      ( -288.863, 750.546, 1258.96; 9678.9 ) -- ( -289.863, 755.53, 1257.56; 10622.7 )
+      ( -289.863, 755.53, 1257.56; 10622.7 )
+
+[#2] (from 'generator::SinglesGen') ID=253: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via neutronInelastic from ID=1 at ( -143.296, 379.328, 841.909; 13.4825 ) cm with momentum ( 0.000216163, 0.000393798, -0.000210616; 0.000496147 ) GeV/c
+  stops by phot at ( -139.224, 380.747, 846.372; 14.4141 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 27.9285 cm long in 6 points:
+      ( -143.296, 379.328, 841.909; 13.4825 ) -- ( -138.3, 388.43, 837.041; 13.865 )
+      ( -138.427, 385.89, 841.696; 14.042 ) -- ( -138.059, 382.149, 847.562; 14.2744 )
+      ( -139.56, 382.9, 846.459; 14.3414 ) -- ( -139.224, 380.747, 846.372; 14.4141 )
+
+[#3] (from 'generator::SinglesGen') ID=254: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via neutronInelastic from ID=1 at ( -143.296, 379.328, 841.909; 13.4825 ) cm with momentum ( -0.0610805, 0.0080984, -0.0224389; 37.2156 ) GeV/c
+  stops by ionIoni at ( -143.296, 379.328, 841.909; 13.4826 ) cm with momentum ( -0, 0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 6.88909e-06 cm long in 2 points:
+      ( -143.296, 379.328, 841.909; 13.4825 ) -- ( -143.296, 379.328, 841.909; 13.4826 )
+
+[#4] (from 'generator::SinglesGen') ID=259: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=252 at ( -135.97, 360.862, 849.377; 28.8469 ) cm with momentum ( 0.0195637, -0.0777401, 0.00568985; 37.2156 ) GeV/c
+  stops by ionIoni at ( -135.97, 360.862, 849.377; 28.8471 ) cm with momentum ( 0, -0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 1.3352e-05 cm long in 2 points:
+      ( -135.97, 360.862, 849.377; 28.8469 ) -- ( -135.97, 360.862, 849.377; 28.8471 )
+
+[#5] (from 'generator::SinglesGen') ID=260: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=252 at ( -137.172, 371.313, 851.872; 37.0373 ) cm with momentum ( -7.56307e-05, 0.0725395, -0.0128169; 37.2156 ) GeV/c
+  stops by ionIoni at ( -137.172, 371.313, 851.872; 37.0375 ) cm with momentum ( -0, 0, -0; 37.2155 ) GeV/c
+  comes with a trajectory 1.00853e-05 cm long in 2 points:
+      ( -137.172, 371.313, 851.872; 37.0373 ) -- ( -137.172, 371.313, 851.872; 37.0375 )
+
+[#6] (from 'generator::SinglesGen') ID=261: PDG ID 1000180400 mass=37.2155 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via hadElastic from ID=252 at ( -139.124, 357.295, 861.522; 50.5646 ) cm with momentum ( 0.00143708, -0.070006, 0.0220969; 37.2156 ) GeV/c
+  stops by ionIoni at ( -139.124, 357.295, 861.522; 50.5648 ) cm with momentum ( 0, -0, 0; 37.2155 ) GeV/c
+  comes with a trajectory 9.97899e-06 cm long in 2 points:
+      ( -139.124, 357.295, 861.522; 50.5646 ) -- ( -139.124, 357.295, 861.522; 50.5648 )
+
+
+Event run: 1 subRun: 0 event: 187: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -85.9812, 431.343, 931.32; 0 ) cm with momentum ( 0.155654, 0.00986762, 0.125197; 0.2 ) GeV/c
+  stops by conv at ( -85.5303, 431.372, 931.683; 0.0193256 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 0.579368 cm long in 2 points:
+      ( -85.9812, 431.343, 931.32; 0 ) -- ( -85.5303, 431.372, 931.683; 0.0193256 )
+
+
+Event run: 1 subRun: 0 event: 188: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 47.9034, 342.029, 326.614; 0 ) cm with momentum ( 0.117971, 0.0390287, 0.156715; 0.2 ) GeV/c
+  stops by conv at ( 50.5209, 342.895, 330.091; 0.148021 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 4.43756 cm long in 2 points:
+      ( 47.9034, 342.029, 326.614; 0 ) -- ( 50.5209, 342.895, 330.091; 0.148021 )
+
+
+Event run: 1 subRun: 0 event: 189: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -185.714, -176.055, 219.296; 0 ) cm with momentum ( -0.15422, -0.0485847, 0.117711; 0.2 ) GeV/c
+  stops by conv at ( -194.254, -178.746, 225.815; 0.369426 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 11.0751 cm long in 2 points:
+      ( -185.714, -176.055, 219.296; 0 ) -- ( -194.254, -178.746, 225.815; 0.369426 )
+
+
+Event run: 1 subRun: 0 event: 190: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 90.1907, 317.57, 1201.3; 0 ) cm with momentum ( -0.0971682, 0.0193, 0.173741; 0.2 ) GeV/c
+  stops by conv at ( 87.4436, 318.116, 1206.22; 0.188608 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 5.65434 cm long in 2 points:
+      ( 90.1907, 317.57, 1201.3; 0 ) -- ( 87.4436, 318.116, 1206.22; 0.188608 )
+
+
+Event run: 1 subRun: 0 event: 191: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -168.014, 105.753, 23.1276; 0 ) cm with momentum ( 0.00295759, -0.192502, -0.0541669; 0.2 ) GeV/c
+  stops by conv at ( -167.872, 96.5002, 20.524; 0.32066 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 9.61313 cm long in 2 points:
+      ( -168.014, 105.753, 23.1276; 0 ) -- ( -167.872, 96.5002, 20.524; 0.32066 )
+
+
+Event run: 1 subRun: 0 event: 192: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 64.7264, 281.45, 1266.72; 0 ) cm with momentum ( 0.0773449, -0.177964, -0.0484397; 0.2 ) GeV/c
+  stops by conv at ( 71.1936, 266.569, 1262.67; 0.557818 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 16.723 cm long in 2 points:
+      ( 64.7264, 281.45, 1266.72; 0 ) -- ( 71.1936, 266.569, 1262.67; 0.557818 )
+
+
+Event run: 1 subRun: 0 event: 193: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -95.8693, -35.2931, 1329.08; 0 ) cm with momentum ( 0.0729588, 0.0531586, 0.178469; 0.2 ) GeV/c
+  stops by conv at ( -82.5817, -25.6115, 1361.59; 1.21501 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 36.425 cm long in 2 points:
+      ( -95.8693, -35.2931, 1329.08; 0 ) -- ( -82.5817, -25.6115, 1361.59; 1.21501 )
+
+
+Event run: 1 subRun: 0 event: 194: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -74.0274, -45.8501, 532.767; 0 ) cm with momentum ( 0.0636269, 0.054884, 0.181492; 0.2 ) GeV/c
+  stops by conv at ( -67.9198, -40.5817, 550.189; 0.640387 ) cm with momentum ( 0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 19.1983 cm long in 2 points:
+      ( -74.0274, -45.8501, 532.767; 0 ) -- ( -67.9198, -40.5817, 550.189; 0.640387 )
+
+
+Event run: 1 subRun: 0 event: 195: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -168.338, 482.207, 692.344; 0 ) cm with momentum ( 0.117182, -0.157763, -0.0371397; 0.2 ) GeV/c
+  stops by conv at ( -163.734, 476.008, 690.885; 0.262138 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 7.85869 cm long in 2 points:
+      ( -168.338, 482.207, 692.344; 0 ) -- ( -163.734, 476.008, 690.885; 0.262138 )
+
+
+Event run: 1 subRun: 0 event: 196: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 124.312, -392.024, 1103.95; 0 ) cm with momentum ( -0.0095762, 0.054027, 0.192326; 0.2 ) GeV/c
+  stops by conv at ( 123.661, -388.349, 1117.03; 0.453794 ) cm with momentum ( -0, 0, 0; 0 ) GeV/c
+  comes with a trajectory 13.6044 cm long in 2 points:
+      ( 124.312, -392.024, 1103.95; 0 ) -- ( 123.661, -388.349, 1117.03; 0.453794 )
+
+
+Event run: 1 subRun: 0 event: 197: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 331.023, 319.854, 925.352; 0 ) cm with momentum ( -0.0667932, -0.184957, -0.0364625; 0.2 ) GeV/c
+  stops by conv at ( 320.566, 290.898, 919.643; 1.04444 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 31.3115 cm long in 2 points:
+      ( 331.023, 319.854, 925.352; 0 ) -- ( 320.566, 290.898, 919.643; 1.04444 )
+
+
+Event run: 1 subRun: 0 event: 198: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 247.861, -102.586, 692.676; 0 ) cm with momentum ( -0.118181, -0.161346, -0.00086442; 0.2 ) GeV/c
+  stops by conv at ( 247.141, -103.57, 692.671; 0.0406618 ) cm with momentum ( -0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 1.21901 cm long in 2 points:
+      ( 247.861, -102.586, 692.676; 0 ) -- ( 247.141, -103.57, 692.671; 0.0406618 )
+
+
+Event run: 1 subRun: 0 event: 199: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( -18.4772, -200.843, 881.073; 0 ) cm with momentum ( -0.123295, -0.00531604, 0.157385; 0.2 ) GeV/c
+  stops by conv at ( -30.6798, -201.369, 896.649; 0.66026 ) cm with momentum ( -0, -0, 0; 0 ) GeV/c
+  comes with a trajectory 19.7941 cm long in 2 points:
+      ( -18.4772, -200.843, 881.073; 0 ) -- ( -30.6798, -201.369, 896.649; 0.66026 )
+
+
+Event run: 1 subRun: 0 event: 200: data product 'largeant' contains 1 MCParticle's
+
+[#0] (from 'generator::SinglesGen' particle #0) ID=1: gamma mass=0 GeV/c2  status=1 (stable final state); generator vertex ( 0, 0, 0; 0 )
+  created via primary by the gods at ( 220.998, 317.819, 1298.76; 0 ) cm with momentum ( 0.150185, -0.130859, -0.0178995; 0.2 ) GeV/c
+  stops by conv at ( 239.387, 301.796, 1296.57; 0.816863 ) cm with momentum ( 0, -0, -0; 0 ) GeV/c
+  comes with a trajectory 24.4889 cm long in 2 points:
+      ( 220.998, 317.819, 1298.76; 0 ) -- ( 239.387, 301.796, 1296.57; 0.816863 )
+
+

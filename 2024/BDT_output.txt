@@ -1,0 +1,314 @@
+leoperes@leopc:~/Dropbox/AxionAnalysis$ root
+   ------------------------------------------------------------------
+  | Welcome to ROOT 6.26/10                        https://root.cern |
+  | (c) 1995-2021, The ROOT Team; conception: R. Brun, F. Rademakers |
+  | Built for linuxx8664gcc on Nov 26 2022, 00:02:00                 |
+  | From heads/latest-stable@4dddea35                                |
+  | With c++ (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0                   |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q'       |
+   ------------------------------------------------------------------
+
+root [0] .L trainBDT_GammaALP_AtmNu.C+
+Info in <TUnixSystem::ACLiC>: creating shared library /home/leoperes/Dropbox/AxionAnalysis/./trainBDT_GammaALP_AtmNu_C.so
+Warning in cling::IncrementalParser::CheckABICompatibility():
+  Possible C++ standard library mismatch, compiled with __GLIBCXX__ '20220421'
+  Extraction of runtime standard library version was: '20230528'
+root [1] MakeTrain()
+--- TMVAClassification       : Using input signal file: /home/leoperes/GammaAxion_0.1_0.2GeV_51452090_29_20231231T010656Z_ntuple.root
+--- TMVAClassification       : Using input background file: /home/leoperes/ntuples_grid_newVertex/atm_hA_BR_4ana.root
+DataSetInfo              : [dataset] : Added class "Signal"
+                         : Add Tree Atm of type Signal with 30499 events
+DataSetInfo              : [dataset] : Added class "Background"
+                         : Add Tree Atm of type Background with 220573 events
+Factory                  : Booking method: BDT
+                         : 
+                         : Rebuilding Dataset dataset
+                         : Building event vectors for type 2 Signal
+                         : Dataset[dataset] :  create input formulas for tree Atm
+                         : Building event vectors for type 2 Background
+                         : Dataset[dataset] :  create input formulas for tree Atm
+DataSetFactory           : [dataset] : Number of events in input trees
+                         : 
+                         : 
+                         : Number of training and testing events
+                         : ---------------------------------------------------------------------------
+                         : Signal     -- training events            : 28000
+                         : Signal     -- testing events             : 2499
+                         : Signal     -- training and testing events: 30499
+                         : Background -- training events            : 200000
+                         : Background -- testing events             : 20573
+                         : Background -- training and testing events: 220573
+                         : 
+DataSetInfo              : Correlation matrix (Signal):
+                         : --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                         :                          LongestTrack PIDALongestTrack nTracks nShowers nSpacePoints NPrimaryDaughters LargeShowerOpenAngle LongestShower   NHits EventRecoEnergy_Charge CVN_NumuProbability CVN_0protonsProbability
+                         :            LongestTrack:       +1.000           -0.170  -0.272   -0.282       +0.725            -0.261               -0.149        +0.869  +0.427                 +0.400              +0.119                  +0.145
+                         :        PIDALongestTrack:       -0.170           +1.000  -0.084   -0.076       -0.036            -0.078               -0.006        -0.134  +0.043                 +0.043              +0.009                  -0.048
+                         :                 nTracks:       -0.272           -0.084  +1.000   +0.878       -0.062            +0.821               +0.319        -0.259  +0.105                 +0.057              +0.079                  +0.067
+                         :                nShowers:       -0.282           -0.076  +0.878   +1.000       -0.125            +0.959               +0.302        -0.278  +0.084                 +0.037              +0.070                  +0.037
+                         :            nSpacePoints:       +0.725           -0.036  -0.062   -0.125       +1.000            -0.122               -0.026        +0.692  +0.664                 +0.546              +0.214                  +0.282
+                         :       NPrimaryDaughters:       -0.261           -0.078  +0.821   +0.959       -0.122            +1.000               +0.259        -0.256  +0.077                 +0.032              +0.065                  +0.030
+                         :    LargeShowerOpenAngle:       -0.149           -0.006  +0.319   +0.302       -0.026            +0.259               +1.000        -0.249  +0.089                 +0.078              +0.076                  +0.080
+                         :           LongestShower:       +0.869           -0.134  -0.259   -0.278       +0.692            -0.256               -0.249        +1.000  +0.406                 +0.399              +0.141                  +0.156
+                         :                   NHits:       +0.427           +0.043  +0.105   +0.084       +0.664            +0.077               +0.089        +0.406  +1.000                 +0.791              +0.360                  +0.398
+                         :  EventRecoEnergy_Charge:       +0.400           +0.043  +0.057   +0.037       +0.546            +0.032               +0.078        +0.399  +0.791                 +1.000              +0.398                  +0.304
+                         :     CVN_NumuProbability:       +0.119           +0.009  +0.079   +0.070       +0.214            +0.065               +0.076        +0.141  +0.360                 +0.398              +1.000                  +0.725
+                         : CVN_0protonsProbability:       +0.145           -0.048  +0.067   +0.037       +0.282            +0.030               +0.080        +0.156  +0.398                 +0.304              +0.725                  +1.000
+                         : --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DataSetInfo              : Correlation matrix (Background):
+                         : --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                         :                          LongestTrack PIDALongestTrack nTracks nShowers nSpacePoints NPrimaryDaughters LargeShowerOpenAngle LongestShower   NHits EventRecoEnergy_Charge CVN_NumuProbability CVN_0protonsProbability
+                         :            LongestTrack:       +1.000           -0.012  +0.174   +0.051       +0.153            +0.155               +0.037        +0.013  +0.188                 +0.126              +0.087                  +0.023
+                         :        PIDALongestTrack:       -0.012           +1.000  +0.079   -0.038       -0.000            +0.042               -0.037        -0.033  +0.006                 +0.014              -0.103                  -0.190
+                         :                 nTracks:       +0.174           +0.079  +1.000   +0.316       +0.590            +0.880               +0.237        +0.185  +0.673                 +0.520              +0.160                  +0.031
+                         :                nShowers:       +0.051           -0.038  +0.316   +1.000       +0.509            +0.706               +0.721        +0.616  +0.551                 +0.488              -0.105                  +0.104
+                         :            nSpacePoints:       +0.153           -0.000  +0.590   +0.509       +1.000            +0.696               +0.368        +0.543  +0.942                 +0.852              +0.122                  +0.075
+                         :       NPrimaryDaughters:       +0.155           +0.042  +0.880   +0.706       +0.696            +1.000               +0.518        +0.438  +0.776                 +0.633              +0.065                  +0.070
+                         :    LargeShowerOpenAngle:       +0.037           -0.037  +0.237   +0.721       +0.368            +0.518               +1.000        +0.412  +0.403                 +0.352              -0.082                  +0.099
+                         :           LongestShower:       +0.013           -0.033  +0.185   +0.616       +0.543            +0.438               +0.412        +1.000  +0.541                 +0.481              -0.130                  +0.071
+                         :                   NHits:       +0.188           +0.006  +0.673   +0.551       +0.942            +0.776               +0.403        +0.541  +1.000                 +0.884              +0.088                  +0.082
+                         :  EventRecoEnergy_Charge:       +0.126           +0.014  +0.520   +0.488       +0.852            +0.633               +0.352        +0.481  +0.884                 +1.000              +0.008                  +0.047
+                         :     CVN_NumuProbability:       +0.087           -0.103  +0.160   -0.105       +0.122            +0.065               -0.082        -0.130  +0.088                 +0.008              +1.000                  +0.345
+                         : CVN_0protonsProbability:       +0.023           -0.190  +0.031   +0.104       +0.075            +0.070               +0.099        +0.071  +0.082                 +0.047              +0.345                  +1.000
+                         : --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DataSetFactory           : [dataset] :  
+                         : 
+Factory                  : Train all methods
+Factory                  : [dataset] : Create Transformation "I" with events from all classes.
+                         : 
+                         : Transformation, Variable selection : 
+                         : Input : variable 'LongestTrack' <---> Output : variable 'LongestTrack'
+                         : Input : variable 'PIDALongestTrack' <---> Output : variable 'PIDALongestTrack'
+                         : Input : variable 'nTracks' <---> Output : variable 'nTracks'
+                         : Input : variable 'nShowers' <---> Output : variable 'nShowers'
+                         : Input : variable 'nSpacePoints' <---> Output : variable 'nSpacePoints'
+                         : Input : variable 'NPrimaryDaughters' <---> Output : variable 'NPrimaryDaughters'
+                         : Input : variable 'LargeShowerOpenAngle' <---> Output : variable 'LargeShowerOpenAngle'
+                         : Input : variable 'LongestShower' <---> Output : variable 'LongestShower'
+                         : Input : variable 'NHits' <---> Output : variable 'NHits'
+                         : Input : variable 'EventRecoEnergy_Charge' <---> Output : variable 'EventRecoEnergy_Charge'
+                         : Input : variable 'CVN_NumuProbability' <---> Output : variable 'CVN_NumuProbability'
+                         : Input : variable 'CVN_0protonsProbability' <---> Output : variable 'CVN_0protonsProbability'
+Factory                  : [dataset] : Create Transformation "D" with events from all classes.
+                         : 
+                         : Transformation, Variable selection : 
+                         : Input : variable 'LongestTrack' <---> Output : variable 'LongestTrack'
+                         : Input : variable 'PIDALongestTrack' <---> Output : variable 'PIDALongestTrack'
+                         : Input : variable 'nTracks' <---> Output : variable 'nTracks'
+                         : Input : variable 'nShowers' <---> Output : variable 'nShowers'
+                         : Input : variable 'nSpacePoints' <---> Output : variable 'nSpacePoints'
+                         : Input : variable 'NPrimaryDaughters' <---> Output : variable 'NPrimaryDaughters'
+                         : Input : variable 'LargeShowerOpenAngle' <---> Output : variable 'LargeShowerOpenAngle'
+                         : Input : variable 'LongestShower' <---> Output : variable 'LongestShower'
+                         : Input : variable 'NHits' <---> Output : variable 'NHits'
+                         : Input : variable 'EventRecoEnergy_Charge' <---> Output : variable 'EventRecoEnergy_Charge'
+                         : Input : variable 'CVN_NumuProbability' <---> Output : variable 'CVN_NumuProbability'
+                         : Input : variable 'CVN_0protonsProbability' <---> Output : variable 'CVN_0protonsProbability'
+Factory                  : [dataset] : Create Transformation "P" with events from all classes.
+                         : 
+                         : Transformation, Variable selection : 
+                         : Input : variable 'LongestTrack' <---> Output : variable 'LongestTrack'
+                         : Input : variable 'PIDALongestTrack' <---> Output : variable 'PIDALongestTrack'
+                         : Input : variable 'nTracks' <---> Output : variable 'nTracks'
+                         : Input : variable 'nShowers' <---> Output : variable 'nShowers'
+                         : Input : variable 'nSpacePoints' <---> Output : variable 'nSpacePoints'
+                         : Input : variable 'NPrimaryDaughters' <---> Output : variable 'NPrimaryDaughters'
+                         : Input : variable 'LargeShowerOpenAngle' <---> Output : variable 'LargeShowerOpenAngle'
+                         : Input : variable 'LongestShower' <---> Output : variable 'LongestShower'
+                         : Input : variable 'NHits' <---> Output : variable 'NHits'
+                         : Input : variable 'EventRecoEnergy_Charge' <---> Output : variable 'EventRecoEnergy_Charge'
+                         : Input : variable 'CVN_NumuProbability' <---> Output : variable 'CVN_NumuProbability'
+                         : Input : variable 'CVN_0protonsProbability' <---> Output : variable 'CVN_0protonsProbability'
+Factory                  : [dataset] : Create Transformation "G" with events from all classes.
+                         : 
+                         : Transformation, Variable selection : 
+                         : Input : variable 'LongestTrack' <---> Output : variable 'LongestTrack'
+                         : Input : variable 'PIDALongestTrack' <---> Output : variable 'PIDALongestTrack'
+                         : Input : variable 'nTracks' <---> Output : variable 'nTracks'
+                         : Input : variable 'nShowers' <---> Output : variable 'nShowers'
+                         : Input : variable 'nSpacePoints' <---> Output : variable 'nSpacePoints'
+                         : Input : variable 'NPrimaryDaughters' <---> Output : variable 'NPrimaryDaughters'
+                         : Input : variable 'LargeShowerOpenAngle' <---> Output : variable 'LargeShowerOpenAngle'
+                         : Input : variable 'LongestShower' <---> Output : variable 'LongestShower'
+                         : Input : variable 'NHits' <---> Output : variable 'NHits'
+                         : Input : variable 'EventRecoEnergy_Charge' <---> Output : variable 'EventRecoEnergy_Charge'
+                         : Input : variable 'CVN_NumuProbability' <---> Output : variable 'CVN_NumuProbability'
+                         : Input : variable 'CVN_0protonsProbability' <---> Output : variable 'CVN_0protonsProbability'
+Factory                  : [dataset] : Create Transformation "D" with events from all classes.
+                         : 
+                         : Transformation, Variable selection : 
+                         : Input : variable 'LongestTrack' <---> Output : variable 'LongestTrack'
+                         : Input : variable 'PIDALongestTrack' <---> Output : variable 'PIDALongestTrack'
+                         : Input : variable 'nTracks' <---> Output : variable 'nTracks'
+                         : Input : variable 'nShowers' <---> Output : variable 'nShowers'
+                         : Input : variable 'nSpacePoints' <---> Output : variable 'nSpacePoints'
+                         : Input : variable 'NPrimaryDaughters' <---> Output : variable 'NPrimaryDaughters'
+                         : Input : variable 'LargeShowerOpenAngle' <---> Output : variable 'LargeShowerOpenAngle'
+                         : Input : variable 'LongestShower' <---> Output : variable 'LongestShower'
+                         : Input : variable 'NHits' <---> Output : variable 'NHits'
+                         : Input : variable 'EventRecoEnergy_Charge' <---> Output : variable 'EventRecoEnergy_Charge'
+                         : Input : variable 'CVN_NumuProbability' <---> Output : variable 'CVN_NumuProbability'
+                         : Input : variable 'CVN_0protonsProbability' <---> Output : variable 'CVN_0protonsProbability'
+TFHandler_Factory        :                Variable                       Mean                       RMS               [        Min                       Max ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         :            LongestTrack:                   82.644                   637.17   [               1.0000e-10               2.0072e+05 ]
+                         :        PIDALongestTrack:                   12.120                   13.101   [                   0.0000                   60.000 ]
+                         :                 nTracks:                   1.9965                   1.9178   [                   0.0000                   45.000 ]
+                         :                nShowers:                   1.0485                   1.2800   [                   0.0000                   19.000 ]
+                         :            nSpacePoints:                   894.89                   1882.7   [                   3.0000                   44434. ]
+                         :       NPrimaryDaughters:                   2.9638                   2.7501   [                   1.0000                   67.000 ]
+                         :    LargeShowerOpenAngle:                  0.13176                  0.18706   [                   0.0000                   1.5708 ]
+                         :           LongestShower:                   36.154                   53.405   [                   0.0000                   1540.6 ]
+                         :                   NHits:                   1382.9                   2850.0   [                   16.000                   59498. ]
+                         :  EventRecoEnergy_Charge:                   1.3954                   4.5099   [                   0.0000                   95.960 ]
+                         :     CVN_NumuProbability:                  0.13965                  0.39187   [                  -1.0000                  0.99980 ]
+                         : CVN_0protonsProbability:                  0.39592                  0.45913   [                  -1.0000                   1.0000 ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         : Preparing the Decorrelation transformation...
+TFHandler_Factory        :                Variable                       Mean                       RMS               [        Min                       Max ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         :            LongestTrack:                 0.059403                   1.0000   [                  -3.3770                   319.23 ]
+                         :        PIDALongestTrack:                  0.92768                   1.0000   [                  -1.0949                   5.4296 ]
+                         :                 nTracks:                  0.85939                   1.0000   [                  -17.747                   17.598 ]
+                         :                nShowers:                  0.39133                   1.0000   [                  -9.5443                   11.199 ]
+                         :            nSpacePoints:                  0.26616                   1.0000   [                  -25.005                   23.014 ]
+                         :       NPrimaryDaughters:                  0.69318                   1.0000   [                  -11.378                   17.310 ]
+                         :    LargeShowerOpenAngle:                  0.23983                   1.0000   [                  -9.5586                   11.030 ]
+                         :           LongestShower:                  0.51122                   1.0000   [                  -12.202                   30.294 ]
+                         :                   NHits:                  0.40121                   1.0000   [                  -1.6146                   30.846 ]
+                         :  EventRecoEnergy_Charge:                 -0.15107                   1.0000   [                  -13.802                   34.812 ]
+                         :     CVN_NumuProbability:                  0.27916                   1.0000   [                  -17.658                   7.8823 ]
+                         : CVN_0protonsProbability:                  0.97019                   1.0000   [                  -2.5984                   3.6001 ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         : Preparing the Principle Component (PCA) transformation...
+TFHandler_Factory        :                Variable                       Mean                       RMS               [        Min                       Max ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         :            LongestTrack:               2.8070e-07                   3376.8   [                  -1629.2                   69518. ]
+                         :        PIDALongestTrack:               5.7801e-08                   632.09   [                  -3924.6               1.9485e+05 ]
+                         :                 nTracks:              -5.0938e-08                   521.15   [                  -19513.                   42374. ]
+                         :                nShowers:               1.0231e-09                   44.350   [                  -1313.6                   574.15 ]
+                         :            nSpacePoints:               9.9548e-11                   13.079   [                  -58.696                   28.033 ]
+                         :       NPrimaryDaughters:               5.1025e-11                   2.2790   [                  -52.071                   32.691 ]
+                         :    LargeShowerOpenAngle:              -1.0527e-10                   1.9213   [                  -29.948                   49.811 ]
+                         :           LongestShower:               6.6357e-11                   1.0466   [                  -12.928                   15.745 ]
+                         :                   NHits:               2.5373e-11                  0.49680   [                  -2.9228                   4.3125 ]
+                         :  EventRecoEnergy_Charge:              -5.9345e-12                  0.44139   [                  -4.0004                   6.1980 ]
+                         :     CVN_NumuProbability:              -3.4277e-11                  0.30763   [                  -4.6160                   2.1147 ]
+                         : CVN_0protonsProbability:              -5.0412e-12                  0.13407   [                  -1.3761                   1.4428 ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         : Preparing the Gaussian transformation...
+                         : Preparing the Decorrelation transformation...
+TFHandler_Factory        :                Variable                       Mean                       RMS               [        Min                       Max ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         :            LongestTrack:                 -0.30618                   1.0000   [                  -4.3488                   5.8582 ]
+                         :        PIDALongestTrack:                -0.023454                   1.0000   [                  -2.3880                   3.9889 ]
+                         :                 nTracks:                 -0.63396                   1.0000   [                  -4.9978                   4.6089 ]
+                         :                nShowers:                   1.9803                   1.0000   [                  -1.5004                   11.849 ]
+                         :            nSpacePoints:                  0.41016                   1.0000   [                  -15.856                   9.2917 ]
+                         :       NPrimaryDaughters:                  0.72027                   1.0000   [                  -3.9092                   7.7501 ]
+                         :    LargeShowerOpenAngle:                  -1.1995                   1.0000   [                  -4.5241                   6.8697 ]
+                         :           LongestShower:                  -1.2296                   1.0000   [                  -5.4384                   4.7569 ]
+                         :                   NHits:                 0.058058                   1.0000   [                  -6.4361                   11.230 ]
+                         :  EventRecoEnergy_Charge:                  0.19578                   1.0000   [                  -5.8289                   12.701 ]
+                         :     CVN_NumuProbability:                 -0.28122                   1.0000   [                  -3.9612                   6.3494 ]
+                         : CVN_0protonsProbability:                -0.012735                   1.0000   [                  -3.3261                   5.7096 ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         : Ranking input variables (method unspecific)...
+IdTransformation         : Ranking result (top variable is best ranked)
+                         : ------------------------------------------------
+                         : Rank : Variable                : Separation
+                         : ------------------------------------------------
+                         :    1 : nSpacePoints            : 4.757e-01
+                         :    2 : NHits                   : 3.727e-01
+                         :    3 : nShowers                : 3.496e-01
+                         :    4 : PIDALongestTrack        : 3.167e-01
+                         :    5 : LongestShower           : 3.003e-01
+                         :    6 : CVN_0protonsProbability : 2.250e-01
+                         :    7 : LargeShowerOpenAngle    : 1.829e-01
+                         :    8 : EventRecoEnergy_Charge  : 1.757e-01
+                         :    9 : CVN_NumuProbability     : 1.225e-01
+                         :   10 : NPrimaryDaughters       : 1.090e-01
+                         :   11 : nTracks                 : 8.638e-02
+                         :   12 : LongestTrack            : 7.221e-02
+                         : ------------------------------------------------
+Factory                  : Train method: BDT for Classification
+                         : 
+BDT                      : #events: (reweighted) sig: 114000 bkg: 114000
+                         : #events: (unweighted) sig: 28000 bkg: 200000
+                         : Training 400 Decision Trees ... patience please
+                         : Elapsed time for training with 228000 events: 42.7 sec         
+BDT                      : [dataset] : Evaluation of BDT on training sample (228000 events)
+                         : Elapsed time for evaluation of 228000 events: 5.61 sec       
+                         : Creating xml weight file: dataset/weights/TMVAClassification_BDT.weights.xml
+                         : Creating standalone class: dataset/weights/TMVAClassification_BDT.class.C
+                         : TMVA_ALP_Analysis.root:/dataset/Method_BDT/BDT
+Factory                  : Training finished
+                         : 
+                         : Ranking input variables (method specific)...
+BDT                      : Ranking result (top variable is best ranked)
+                         : ---------------------------------------------------------
+                         : Rank : Variable                : Variable Importance
+                         : ---------------------------------------------------------
+                         :    1 : nShowers                : 1.713e-01
+                         :    2 : NPrimaryDaughters       : 1.635e-01
+                         :    3 : LongestTrack            : 1.209e-01
+                         :    4 : nSpacePoints            : 1.112e-01
+                         :    5 : nTracks                 : 1.099e-01
+                         :    6 : NHits                   : 6.482e-02
+                         :    7 : CVN_0protonsProbability : 6.400e-02
+                         :    8 : PIDALongestTrack        : 4.851e-02
+                         :    9 : LargeShowerOpenAngle    : 4.407e-02
+                         :   10 : CVN_NumuProbability     : 3.803e-02
+                         :   11 : EventRecoEnergy_Charge  : 3.289e-02
+                         :   12 : LongestShower           : 3.091e-02
+                         : ---------------------------------------------------------
+Factory                  : === Destroy and recreate all methods via weight files for testing ===
+                         : 
+                         : Reading weight file: dataset/weights/TMVAClassification_BDT.weights.xml
+Factory                  : Test all methods
+Factory                  : Test method: BDT for Classification performance
+                         : 
+BDT                      : [dataset] : Evaluation of BDT on testing sample (23072 events)
+                         : Elapsed time for evaluation of 23072 events: 0.656 sec       
+Factory                  : Evaluate all methods
+Factory                  : Evaluate classifier: BDT
+                         : 
+BDT                      : [dataset] : Loop over test events and fill histograms with classifier response...
+                         : 
+TFHandler_BDT            :                Variable                       Mean                       RMS               [        Min                       Max ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         :            LongestTrack:                   82.742                   385.59   [               1.0000e-10                   32290. ]
+                         :        PIDALongestTrack:                   12.265                   13.272   [                   0.0000                   60.000 ]
+                         :                 nTracks:                   2.0103                   1.9378   [                   0.0000                   35.000 ]
+                         :                nShowers:                   1.0436                   1.2822   [                   0.0000                   13.000 ]
+                         :            nSpacePoints:                   912.07                   1878.2   [                   3.0000                   36377. ]
+                         :       NPrimaryDaughters:                   3.0071                   2.7697   [                   1.0000                   43.000 ]
+                         :    LargeShowerOpenAngle:                  0.13321                  0.18794   [                   0.0000                   1.3072 ]
+                         :           LongestShower:                   36.929                   54.309   [                   0.0000                   1055.3 ]
+                         :                   NHits:                   1412.3                   2857.7   [                   19.000                   52557. ]
+                         :  EventRecoEnergy_Charge:                   1.4490                   4.7237   [                0.0067964                   91.630 ]
+                         :     CVN_NumuProbability:                  0.14282                  0.38685   [                  -1.0000                  0.99942 ]
+                         : CVN_0protonsProbability:                  0.39148                  0.45018   [                  -1.0000                   1.0000 ]
+                         : --------------------------------------------------------------------------------------------------------------------------------------
+                         : 
+                         : Evaluation results ranked by best signal efficiency and purity (area)
+                         : -------------------------------------------------------------------------------------------------------------------
+                         : DataSet       MVA                       
+                         : Name:         Method:          ROC-integ
+                         : dataset       BDT            : 1.000
+                         : -------------------------------------------------------------------------------------------------------------------
+                         : 
+                         : Testing efficiency compared to training efficiency (overtraining check)
+                         : -------------------------------------------------------------------------------------------------------------------
+                         : DataSet              MVA              Signal efficiency: from test sample (from training sample) 
+                         : Name:                Method:          @B=0.01             @B=0.10            @B=0.30   
+                         : -------------------------------------------------------------------------------------------------------------------
+                         : dataset              BDT            : 1.000 (1.000)       1.000 (1.000)      1.000 (1.000)
+                         : -------------------------------------------------------------------------------------------------------------------
+                         : 
+Dataset:dataset          : Created tree 'TestTree' with 23072 events
+                         : 
+Dataset:dataset          : Created tree 'TrainTree' with 228000 events
+                         : 
+Factory                  : Thank you for using TMVA!
+                         : For citation information, please visit: http://tmva.sf.net/citeTMVA.html

@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "trainBDT_GammaALP_AtmNu.C": "cpp",
+        "TMVAClassification.C": "cpp",
+        "trainBDT_GammaALP_AtmNu_test.C": "cpp",
+        "cv_BDT.C": "cpp",
+        "test.C": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "produce_roothistfile.C": "cpp",
+        "roothistfile.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
